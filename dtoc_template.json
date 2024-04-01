@@ -1,6 +1,6 @@
 {
     "inputs": [
-        "link to raw XML file in github"
+        "https://raw.githubusercontent.com/djakacki/dtoc_training/main/chamberlain_letters_1613.xml"
     ],
     "documents": "//div[@type='letter']",
     "ignoreNamespace": true,
