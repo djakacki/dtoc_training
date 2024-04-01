@@ -2,7 +2,7 @@
     "inputs": [
         "link to raw XML file in github"
     ],
-    "documents": "//div[@type='divType'or@type='otherDivTypeIfApplicable']",
+    "documents": "//div[@type='letter']",
     "ignoreNamespace": true,
     "documentTitle": "head",
     "documentAuthor": "",
