@@ -1,6 +1,6 @@
 {
     "inputs": [
-        "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml"
+        "https://raw.githubusercontent.com/LEAF-VRE/dtoc_training/main/Russ_Heresies/russ_women.xml"
     ],
     "documents": "//div[@type='essay'or@type='biography']",
     "ignoreNamespace": true,
