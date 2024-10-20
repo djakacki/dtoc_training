@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/tei.css" title="LEAF" alternate="no"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -35,7 +30,7 @@
                 <p>This modern text was prepared in LEAF-VRE by <persName ref="pers:JAKA1">Diane Jakacki</persName> for the New Internet Shakespeare Editions.</p>
             </sourceDesc>
         </fileDesc>
-        <profileDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><profileDesc>
             <particDesc>
                 <listPerson>                    
                     <person xml:id="emdH8_M_abergavenny">
@@ -69,7 +64,7 @@
         <name>Boy</name>
         <reg>Boy</reg>
     </persName>
-    <note><p></p></note>
+    <note><p/></note>
 </person>
                     
                     <person xml:id="emdH8_M_brandon">
@@ -257,7 +252,7 @@
         <reg>Man</reg>
         <reg>One</reg><!-- JENS1 to JAKA1: I've added two reg elements while you resolve the problem of whether One is the same as Man. -->
     </persName>
-    <note><p></p></note>
+    <note><p/></note>
 </person>
                     
                     <person xml:id="emdH8_M_mayor">
@@ -415,7 +410,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="prologue" xml:id="emdH8_M_prologue"><!-- Note that this xml:id is lower case while the character id is uppercase. -->
+            <div cert="high" org="composite" part="Y" sample="initial" type="prologue" xml:space="default" xml:id="emdH8_M_prologue"><!-- Note that this xml:id is lower case while the character id is uppercase. -->
                 <!-- <lb type="tln" n="1"/> --><stage type="entrance"><supplied>Enter Prologue</supplied></stage>
                 <!-- <lb type="tln" n="2"/> --><sp who="#emdH8_M_Prologue" xml:id="emdH8_M_prologue_sp1"><speaker>Prologue</speaker>
                     <l>I come no more to make you laugh. Things now</l>
@@ -4689,7 +4684,7 @@
                     
                     <stage type="exit">Exeunt Lovell and Denny.</stage>
                     
-                    <stage type="delivery" n="aside" />
+                    <stage type="delivery" n="aside"/>
                     <!-- <lb type="tln" n="2880"/> --><sp who="#emdH8_M_cranmer"><speaker>Cranmer</speaker>
                         <l>I am fearful. Wherefore frowns he thus?</l>
                             <!-- <lb type="tln" n="2881"/> --><l>’Tis his aspect of terror. All’s not well.</l></sp>
