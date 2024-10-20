@@ -410,7 +410,12 @@
     </teiHeader>
     <text>
         <body>
+<<<<<<< Updated upstream
             <div cert="high" org="composite" part="Y" sample="initial" type="prologue" xml:space="default" xml:id="emdH8_M_prologue"><!-- Note that this xml:id is lower case while the character id is uppercase. -->
+=======
+            <div type="prologue" xml:id="emdH8_M_prologue"><!-- Note that this xml:id is lower case while the character id is uppercase. -->
+               <head>PROLOGUE</head>
+>>>>>>> Stashed changes
                 <!-- <lb type="tln" n="1"/> --><stage type="entrance"><supplied>Enter Prologue</supplied></stage>
                 <!-- <lb type="tln" n="2"/> --><sp who="#emdH8_M_Prologue" xml:id="emdH8_M_prologue_sp1"><speaker>Prologue</speaker>
                     <l>I come no more to make you laugh. Things now</l>
@@ -5546,7 +5551,18 @@
                 </div>
                 
             </div>
-                
+                <div type="index">
+                   <head>Henry the Eighth</head>
+                   <list>
+                      <item><ref target="#emdH8_M_Prologue">Prologue</ref></item>
+                      <item><ref target="#emdH8_M_a1">Act 1</ref></item>
+                      <item><ref target="#emdH8_M_a2">Act 2</ref></item>
+                      <item><ref target="#emdH8_M_a3">Act 3</ref></item>
+                      <item><ref target="#emdH8_M_a4">Act 4</ref></item>
+                      <item><ref target="#emdH8_M_a5">Act 5</ref></item>
+                      <item><ref target="#emdH8_M_epilogue">Epilogue</ref></item>
+                   </list>
+                </div>
                 
         </body>
     </text>
