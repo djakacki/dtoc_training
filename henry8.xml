@@ -450,9 +450,10 @@
             </div>
             
             <div cert="high" n="1" org="composite" part="Y" sample="initial" xml:space="default" type="act" xml:id="emdH8_M_a1">
+                <head>Act 1</head>
                 <div type="scene" n="1" xml:id="emdH8_M_a1_s1">
                     <!-- trying to find solution for <stage type="mixed"> that validates. For now using "other" -->                    
-                    <!-- <lb type="tln" n="34"/> --><head>1.1</head>
+                    <!-- <lb type="tln" n="34"/> --><head>Act 1, Scene 1</head>
                     
                     <!-- <lb type="tln" n="35"/> --><stage type="other" n="location, action">Enter the <persName n="#norfolk">Duke of Norfolk</persName> at one door. 
                         <!-- <lb type="tln" n="36"/> -->At the other, the <persName n="#buckingham">Duke of Buckingham</persName>, and the <persName n="#abergavenny">Lord 
@@ -865,7 +866,7 @@
                 </div>
                 
                 <div type="scene" n="2" xml:id="emdH8_M_a1_s2">
-                    <!-- <lb type="tln" n="316"/> --><head>1.2</head>
+                    <!-- <lb type="tln" n="316"/> --><head>Act 1, Scene 2</head>
                     
                      <!-- <lb type="tln" n="317"/> --><stage type="other" n="entrance, sound, action, location">Cornets. Enter King Henry, leaning on the cardinal’s 
                         <!-- <lb type="tln" n="318"/> -->shoulder, the nobles, and Sir Thomas Louell. <supplied>Secretary enters with Cardinal</supplied> The Cardinal 
@@ -1219,7 +1220,7 @@
                 </div>
                 
                 <div type="scene" n="3" xml:id="emdH8_M_a1_s3">
-                    <!-- <lb type="tln" n="569"/> --><head>1.3</head>
+                    <!-- <lb type="tln" n="569"/> --><head>Act 1, Scene 3</head>
                     
                     <!-- <lb type="tln" n="570"/> --><stage type="entrance">Enter Lord Chamberlain and Lord Sandys.</stage>
                     
@@ -1368,7 +1369,7 @@
                 
                 <div type="scene" n="4" xml:id="emdH8_M_a1_s4">
                     
-                    <!-- <lb type="tln" n="660"/> --><head>1.4</head>
+                    <!-- <lb type="tln" n="660"/> --><head>Act 1, Scene 4</head>
                     
                     <!-- <lb type="tln" n="661"/> --><stage type="entrance business sound"><placeName n="mol:WHIT5"><supplied>York Place</supplied></placeName> Hautboys. A small table under a state for the cardinal, a 
                         <!-- <lb type="tln" n="662"/> -->longer table for the guests. Then enter Anne Bullen 
@@ -1644,9 +1645,10 @@
             
             
             <div type="act" n="2" xml:id="emdH8_M_a2">
+                <head>Act 2</head>
                 
                 <div type="scene" n="1" xml:id="emdH8_M_a2_s1">
-                    <!-- <lb type="tln" n="819"/> --><head>2.1</head>
+                    <!-- <lb type="tln" n="819"/> --><head>Act 2, Scene 1</head>
                     
                     <!-- <lb type="tln" n="820"/> --><stage type="entrance">Enter two Gentlemen at several doors.</stage>
                     
@@ -1950,7 +1952,7 @@
                 
                 <div type="scene" n="2" xml:id="emdH8_M_a2_s2">
                     
-                    <!-- <lb type="tln" n="1026"/> --><head>2.2</head>
+                    <!-- <lb type="tln" n="1026"/> --><head>Act 2, Scene 2</head>
                     
                     <!-- <lb type="tln" n="1027"/> --><stage type="entrance">Enter Lord Chamberlain, reading this letter.</stage>
                     
@@ -2238,7 +2240,7 @@
                 </div>
                 
                 <div type="scene" n="3" xml:id="emdH8_M_a2_s3">
-                    <!-- <lb type="tln" n="1200"/> --><head>2.3</head>
+                    <!-- <lb type="tln" n="1200"/> --><head>Act 2, Scene 3</head>
                     
                     <!-- <lb type="tln" n="1201"/> --><stage type="entrance">Enter Anne Bullen, and an old Lady.</stage>
                     
@@ -2441,7 +2443,7 @@
                 
                 <div type="scene" n="4" xml:id="emdH8_M_a2_s4"> 
                     
-                    <!-- <lb type="tln" n="1331"/> --><head>2.4</head>
+                    <!-- <lb type="tln" n="1331"/> --><head>Act 2, Scene 4</head>
                     
                     <!-- <lb type="tln" n="1332"/> --><stage type="other">Trumpets, Sennet, and Cornets. 
                         <!-- <lb type="tln" n="1333"/> -->Enter two Vergers, with <name type="property">short silver wands</name>; next them two 
@@ -2803,9 +2805,10 @@
             </div>
             
             <div type="act" n="3" xml:id="emdH8_M_a3">
+                <head>Act 3</head>
                 <div type="scene" n="1" xml:id="emdH8_M_a3_s1">
                     
-                    <!-- <lb type="tln" n="1614"/> --><head>3.1</head>
+                    <!-- <lb type="tln" n="1614"/> --><head>Act 3, Scene 1</head>
                     
                     <!-- <lb type="tln" n="1615"/> --><stage type="business">Enter Queen and her Women as at work.</stage> 
                     
@@ -3096,7 +3099,7 @@
                 </div>
                 
                 <div type="scene" n="2" xml:id="emdH8_M_a3_s2">
-                    <!-- <lb type="tln" n="1823"/> --><head>3.2</head>
+                    <!-- <lb type="tln" n="1823"/> --><head>Act 3, Scene 2</head>
                     
                     <!-- <lb type="tln" n="1824"/> --><stage type="entrance">Enter the Duke of Norfolk, Duke of Suffolk, Lord Surrey, 
                         <!-- <lb type="tln" n="1825"/> -->and Lord Chamberlain.</stage>
@@ -3894,8 +3897,9 @@
             </div>
             
             <div type="act" n="4" xml:id="emdH8_M_a4">
+                <head>Act 4</head>
                 <div type="scene" n="1" xml:id="emdH8_M_a4_s1">
-                    <!-- <lb type="tln" n="2376"/> --><head>4.1</head>
+                    <!-- <lb type="tln" n="2376"/> --><head>Act 4, Scene 1</head>
                     <!-- <lb type="tln" n="2377"/> --><stage type="entrance">Enter two Gentlemen, meeting one another.</stage>
                     <!-- <lb type="tln" n="2378"/> --><sp who="#emdH8_M_gentleman1"><speaker>1 Gentleman</speaker>
                         <l>Y’are well met once again.</l></sp>
@@ -4171,7 +4175,7 @@
                 </div>
                 
                 <div type="scene" n="2" xml:id="emdH8_M_a4_s2">
-                    <!-- <lb type="tln" n="2547"/> --><head>4.2</head>
+                    <!-- <lb type="tln" n="2547"/> --><head>Act 4, Scene 2</head>
                     
                     <!-- <lb type="tln" n="2548"/> --><stage type="entrance">Enter Katherine Dowager, sick, lead between Griffith,
                         <!-- <lb type="tln" n="2549"/> -->her gentleman usher, and Patience,
@@ -4488,9 +4492,10 @@
             
             
             <div type="act" n="5" xml:id="emdH8_M_a5">
+                <head>Act 5</head>
                 <div type="scene" n="1" xml:id="emdH8_M_a5_s1">
                     
-                    <!-- <lb type="tln" n="2768"/> --><head>5.1</head>
+                    <!-- <lb type="tln" n="2768"/> --><head>Act 5, Scene 1</head>
                     
                     <!-- <lb type="tln" n="2769"/> --><stage type="entrance">Enter Gardiner Bishop of Winchester, a Page with a <!--<objectType n="prop">-->Torch<!-- </objectType> -->
                         <!-- <lb type="tln" n="2770"/> -->before him, met by Sir Thomas Lovell.</stage>
@@ -4840,7 +4845,7 @@
                 </div>
                 
                 <div type="scene" n="2" xml:id="emdH8_M_a5_s2">
-                    <!-- <lb type="tln" n="2987"/> --><head>5.2</head>
+                    <!-- <lb type="tln" n="2987"/> --><head>Act 5, Scene 2</head>
                     
                     <!-- <lb type="tln" n="2988"/> --><stage type="entrance">Enter Cranmer, Archbishop of Canterbury.</stage>
                     
@@ -5257,7 +5262,7 @@
                 </div>
                 
                 <div type="scene" n="3" xml:id="emdH8_M_a5_s3">
-                    <!-- <lb type="tln" n="3256"/> --><head>5.3</head>
+                    <!-- <lb type="tln" n="3256"/> --><head>Act 5, Scene 3</head>
                     
                     <!-- <lb type="tln" n="3257"/> --><stage type="business">Noise and tumult within. Enter Porter and 
                         <!-- <lb type="tln" n="3258"/> -->his man.</stage>
@@ -5402,7 +5407,7 @@
                 </div>
                 
                 <div type="scene" n="4" xml:id="emdH8_M_a5_s4">
-                    <!-- <lb type="tln" n="3353"/> --><head>5.4</head>
+                    <!-- <lb type="tln" n="3353"/> --><head>Act 5, Scene 4</head>
                     
                     <!-- <lb type="tln" n="3354"/> --><stage type="business">Enter trumpets sounding: Then two aldermen, Lord Mayor, 
                         <!-- <lb type="tln" n="3355"/> -->Garter, Cranmer, Duke of Norfolk with his <!-- <objectType n="property"> -->marshal’s 
