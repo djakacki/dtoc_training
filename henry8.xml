@@ -410,12 +410,8 @@
     </teiHeader>
     <text>
         <body>
-<<<<<<< Updated upstream
-            <div cert="high" org="composite" part="Y" sample="initial" type="prologue" xml:space="default" xml:id="emdH8_M_prologue"><!-- Note that this xml:id is lower case while the character id is uppercase. -->
-=======
             <div type="prologue" xml:id="emdH8_M_prologue"><!-- Note that this xml:id is lower case while the character id is uppercase. -->
                <head>PROLOGUE</head>
->>>>>>> Stashed changes
                 <!-- <lb type="tln" n="1"/> --><stage type="entrance"><supplied>Enter Prologue</supplied></stage>
                 <!-- <lb type="tln" n="2"/> --><sp who="#emdH8_M_Prologue" xml:id="emdH8_M_prologue_sp1"><speaker>Prologue</speaker>
                     <l>I come no more to make you laugh. Things now</l>
