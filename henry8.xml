@@ -448,7 +448,7 @@
                 <stage type="exit"><supplied>Exit</supplied></stage><!-- JENS1 to JAKA1: LEMDO allows anthologies to indicate that you have supplied stage directions; QME wants the square brackets but the NISE/DRE stance is that added stage directions should be collated and not wrap in <supplied>. I've left the <supplied> element in place so that you know what you need to collate. For LEAF, we'll have to allow either encoding strategy because not all anthologies will fall in line with DRE and NISE. -->                   
             </div>
             
-            <div type="act" n="1" xml:id="emdH8_M_a1">
+            <div cert="high" n="1" org="composite" part="Y" sample="initial" xml:space="default" type="act" xml:id="emdH8_M_a1">
                 <div type="scene" n="1" xml:id="emdH8_M_a1_s1">
                     <!-- trying to find solution for <stage type="mixed"> that validates. For now using "other" -->                    
                     <!-- <lb type="tln" n="34"/> --><head>1.1</head>
