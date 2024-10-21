@@ -5549,9 +5549,10 @@
                             <!-- <lb type="tln" n="3461"/> --><l>And say twill do, I know within a while</l>
                             <!-- <lb type="tln" n="3462"/> --><l>All the best men are ours; for ’tis ill hap,</l>
                             <!-- <lb type="tln" n="3463"/> --><l>If they hold, when their ladies bid ’em clap.</l></sp>
-                </div>
-                
+                </div>                
             </div>
+            
+<!--            
                 <div type="index">
                    <head>Henry the Eighth</head>
                    <list>
@@ -5563,7 +5564,7 @@
                       <item><ref target="#emdH8_M_a5">Act 5</ref></item>
                       <item><ref target="#emdH8_M_epilogue">Epilogue</ref></item>
                    </list>
-                </div>
+                </div>-->
                 
         </body>
     </text>
