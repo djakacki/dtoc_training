@@ -12,16 +12,16 @@
           "https://raw.githubusercontent.com/LEAF-VRE/dtoc_training/refs/heads/main/heresiesDToCtexts/russ.xml",
           "https://raw.githubusercontent.com/LEAF-VRE/dtoc_training/refs/heads/main/heresiesDToCtexts/weiss.xml"
     ],
-    "documents": "//div[@type='letter']",
+    "documents": "//div[@type='essay']",
     "ignoreNamespace": true,
     "documentTitle": "head",
     "documentAuthor": "",
     "documentImages": "",
     "documentNotes": "",
     "documentLinks": "",
-    "indexDocument": "//div[@type='index']",
-    "editionTitle": "Title",
-    "editionSubtitle": "Subtitle",
+    "indexDocument": "",
+    "editionTitle": "Heresies",
+    "editionSubtitle": "Selections from Women's Traditional Arts: The Politics of Aesthetics",
     "curation": {
         "markup": [
             {
