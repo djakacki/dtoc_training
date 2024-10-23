@@ -2682,18 +2682,12 @@
 					facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_022.jpg"
 					n="22" xml:id="img_0022"/>
 
-				<head><title>The Straits of Literature and History</title></head>
+				<head><title type="essay">The Straits of Literature and History</title></head>
 				<byline><persName key="Carrie Rickey" ref="http://www.wikidata.org/entity/Q5046290"
 						>Carrie Rickey</persName></byline>
 				<p> With whom does history empathize? For <persName key="Walter Benjamin"
 						ref="http://www.wikidata.org/entity/Q61078" cert="high" type="real">Walter
-						Benjamin</persName>, "The answer is inevitable: with the victor." <note
-						type="scholarNote"><persName key="Walter Benjamin"
-							ref="http://www.wikidata.org/entity/Q61078">Walter Benjamin</persName>,
-							<emph>Illuminations</emph> (New York: Schocken Books, 1969). From
-							"<title key="Theses on the Philosophy of History"
-							ref="http://www.wikidata.org/entity/Q330979">Theses on the Philosophy of
-							History"</title>, p. 256.</note> The reciprocity between historian and
+						Benjamin</persName>, "The answer is inevitable: with the victor." The reciprocity between historian and
 					ruler is tacit: the historian makes official the ruler's authority and the
 					ruler's authority gives the historian's work validity. This is not to suggest
 					that no histories exist that subvert this premise. Literature is a "history"
@@ -2715,13 +2709,7 @@
 						Morris</persName>, "Though they [peasants, fishermen, forestmen and other
 					laborers] contributed to the vast majority of the [Heian period's] population
 					and were the only economically productive class in the country, we virtually
-					have no authentic information about their lives." <note type="scholarNote"
-							><persName key="Ivan Morris"
-							ref="http://www.wikidata.org/entity/Q3826587">Ivan Morris</persName>,
-							<title key="Morris, Ivan Ira. | World of the shining prince"
-							ref="http://viaf.org/viaf/9619151052055333530008/"><emph>The World of
-								the Shining Prince</emph></title> (New York: Alfred Knopf, 1964), p.
-						83.</note> What we today know of Heian life has been garnered from the
+					have no authentic information about their lives."  What we today know of Heian life has been garnered from the
 					literature of that period—especially from <persName key="Murasaki Shikibu"
 						ref="http://www.wikidata.org/entity/Q81731">Murasaki Shikibu</persName>'s
 						<title key="The Tale of Genji" ref="http://www.wikidata.org/entity/Q8269"
@@ -2732,8 +2720,7 @@
 					life treat a population of only about one-tenth of one percent of the five
 					million population in <placeName key="Japan"
 						ref="http://www.wikidata.org/entity/Q17" cert="high">Japan<precision
-							match="@ref" precision="high"/></placeName> at that time. <note
-						type="scholarNote"><emph>Ibid.</emph></note></p>
+							match="@ref" precision="high"/></placeName> at that time.</p>
 				<p> Murasaki's and Sei's originality of form and observation is unparalleled in the
 					history of literature. These two women were contemporaries; both were brought to
 					court from the provinces because of their talent and intelligence. Due to the
@@ -2742,9 +2729,7 @@
 					palace, although they were aware of each other's writings. Their social position
 					was substantially different from that of the women outside the court who "toiled
 					arduously, were subject to harsh treatment by their men, bred young, and died
-					early." <note type="scholarNote"><persName key="Ivan Morris"
-							ref="http://www.wikidata.org/entity/Q3826587">Morris</persName>, p.
-						199.</note></p>
+					early."</p>
 				<p>Murasaki and Sei are figures of incalculable significance because they were
 					pioneers, because they produced work in a period which had articulated for
 					itself a distinct masculine and feminine aesthetic, and because they wrote in
@@ -2756,10 +2741,7 @@
 					conversation in Chinese. Even today the distinction between native syllabary and
 					the Chinese characters incorporated into the language reflects this gender
 					dichotomy. The native characters are called <lang>onnade</lang>, or "woman's
-					hand," while Chinese character are known as otokomoji, "man's letters." <note
-						type="scholarNote"><persName key="Ivan Morris"
-							ref="http://www.wikidata.org/entity/Q3826587">Morris</persName>, p.
-						195</note> Sei's writings are still studied today for the purity of her
+					hand," while Chinese character are known as otokomoji, "man's letters." Sei's writings are still studied today for the purity of her
 					Japanese diction; she avoided Chinese-isms—an accomplishment comparable to
 					writing in English without using any Latinate words.</p>
 				<p>In the time of Murasaki and Sei there were no narrative literary traditions to
@@ -2775,11 +2757,7 @@
 					notebooks of historical documents could be recycled by making them into a pillow
 					(a word that referred to a diary as well as a head rest); Sei filled her
 					notebook with lists, odd facts and observations from the present, thereby
-					annotating the leaves of official history with her lively opinions. <note
-						type="scholarNote"><persName key="Sei Shōnagon"
-							ref="http://www.wikidata.org/entity/Q231603">Sei Shonagon</persName>,
-							<emph>The Pillow Book of Sei Shonagon</emph> (Harmondsworth, England:
-						Penguin Books, 1967). Translated and edited by Ivan Morris.</note> For both
+					annotating the leaves of official history with her lively opinions. For both
 					these women, objectivity was the domain of the historian and untenable because
 					it neutralized differing positions. Objects and people, in the writings of
 					Murasaki and Sei, have innumerable facets. They intimated the spirit of an
@@ -2790,19 +2768,14 @@
 					Sei begins a chapter of her book with: "When I make myself imagine what it is
 					like to be one of those women who live at home, faithfully serving their
 					husbands—women who have not a single exciting prospect in life yet believe they
-					are perfectly happy—I am filled with scorn." <note type="scholarNote"><persName
-							key="Sei Shōnagon" ref="http://www.wikidata.org/entity/Q231603">Sei
-							Shonagon</persName>, p. 39.</note> In a passage where Murasaki describes
+					are perfectly happy—I am filled with scorn." In a passage where Murasaki describes
 						<persName key="Hikaru Genji" ref="http://www.wikidata.org/entity/Q997646"
 						type="fictional">Genji</persName>'s (and by implication her own) view of the
 					novel, Genji observes, "Without it what should we know of how people lived in
 					the past from the age of the Gods down to the present day? For history
 					books...show us only one corner of life; whereas these diaries and romances
 					which I see piled around you contain, I am sure, the most minute information
-					about people's private affairs." <note type="scholarNote"><persName
-							key="Murasaki Shikibu" ref="http://www.wikidata.org/entity/Q81731"
-							>Marasaki Shikibu</persName>, <emph>The Tale of Genji</emph> (New York:
-						Alfred Knopf, 1977). Translated by Edward Seidensticker.</note> Sei and
+					about people's private affairs." Sei and
 					Murasaki charted divergent routes in their writing: Sei was an empiricist
 					recording impressions of contemporary Heian manners; she lacked the
 					self-consciousness of Murasaki, who fashioned a world in the indeterminate past
@@ -2829,9 +2802,7 @@
 					reputations as women of wit and sensibility. In Heian Japan a woman was allowed
 					both to inherit and own property. The civil codes expressly forbade
 					wife-beating, although the punishment for this was two degrees less than
-					assaulting "other people." <note type="scholarNote"><persName key="Ivan Morris"
-							ref="http://www.wikidata.org/entity/Q3826587">Morris</persName>, p.
-						90.</note> But these facts don't pinpoint the complex and inbred quality of
+					assaulting "other people." But these facts don't pinpoint the complex and inbred quality of
 					Heian life, which is best described by the Chinese proverb: "The people are as
 					far from the Emper or as from heaven." Japanese appropriation of China's
 					governmental centralization produced a bureaucracy so awkward in this land of
@@ -2848,18 +2819,7 @@
 				<p> If Murasaki's and Sei's writings are an index to female sexual options during
 					the Heian period, aristocratic women enjoyed a multiplicity of partners as well.
 					Later ages would revile Sei and Murasaki for their "foully licentious"Quoted in
-						<persName>Morris</persName>, p. 45<note type="researchNote"/> descriptions,
-					but promiscuity was a vital element of their culture. The largely endogamous
-					Heian court was energized by the covert alliances of provincials with sovereigns
-					and their subalterns. The ruling clan of the Heian period—the Fujiwaras—never
-					commanded significant military strength but established power by marrying their
-					daughters to sovereigns. The famous <persName key="Fujiwara no Michinaga"
-						ref="http://www.wikidata.org/entity/Q433133">Fujiwara Michinaga</persName>
-					was father-in-law of two emperors, grandfather of a third, grandfather and
-					greatgrandfather of a fourth, grandfather and father-in-law of a fifth. <note
-						type="scholarNote"><persName key="Ivan Morris"
-							ref="http://www.wikidata.org/entity/Q3826587">Morris,</persName> p.
-						44.</note> This kind of inbreeding was the substructure of the court clique.
+						<persName>Morris</persName>, p. 45 This kind of inbreeding was the substructure of the court clique.
 					The nominal source of power, this clique was attractive because it nurtured the
 					creation of art. But it needed the vitality of provincials like Sei and Murasaki
 					to regenerate its incestuous ranks.</p>
@@ -2868,10 +2828,7 @@
 					wrote of a picture competition designed by Genji to rechannel court enmities to
 					less destructive ends: "It was indeed a moment in the history of our country
 					when the whole energy of the nation seemed to be concentrated upon the search
-					for the prettiest method of mounting paper scrolls." <note type="scholarNote"
-							><persName key="Murasaki Shikibu"
-							ref="http://www.wikidata.org/entity/Q81731">Murasaki
-						Shikibu</persName>.</note></p>
+					for the prettiest method of mounting paper scrolls."</p>
 				<p>Murasaki's and Sei's importance is that while they operated in a culture that
 					regarded women as inferior to men, they never believed that of themselves.
 					Although in her diary Murasaki repeatedly alluded to her father's regret that
@@ -2893,11 +2850,7 @@
 					be expected to hide behind fans and screens, the way propriety demanded women do
 					outside the court. The masculine style, identified by scholars of Japanese
 					literature as well as by Murasaki and Sei in various appreciations of male
-					qualities, was "the directness of utterance and concern with society." <note
-						type="scholarNote"><persName key="Donald Keene"
-							ref="http://www.wikidata.org/entity/Q1240040">Donald Keene</persName>,
-						in <emph>Half the World</emph>, edited by Arnold Toynbee (New York: Holt,
-						Rinehart and Winston, 1973), p. 255.</note> The "feminine" preference was
+					qualities, was "the directness of utterance and concern with society." The "feminine" preference was
 					taken to be the interest in suggestion and intuition—which was the style
 					imitated by men when they wrote to women or expressed themselves in affairs of
 					the heart. A man could have written in the style of Murasaki and Sei, and,
@@ -2925,15 +2878,9 @@
 					distracting influences which beset an artist in town. They saw so vividly
 					presented both the stem manner of his life there and in some sort the feelings
 					which this rustic life had aroused in everyone used to every luxury and
-					indulgence." <note type="scholarNote"><persName key="Murasaki Shikibu"
-							ref="http://www.wikidata.org/entity/Q81731">Murasaki
-						Shikibu</persName>.</note> Soon after <title key="The Tale of Genji"
+					indulgence." Soon after <title key="The Tale of Genji"
 						ref="http://www.wikidata.org/entity/Q8269">The Tale of Genji</title>
-					appeared at court, Genji was adopted as a Shinto deity. <note type="scholarNote"
-							><persName key="Parker Tyler"
-							ref="http://www.wikidata.org/entity/Q6127625">Parker Tyler</persName>,
-						"Prince Genji: The Hero and His Culture," Art News, Nov., 1958, p.
-						180.</note>
+					appeared at court, Genji was adopted as a Shinto deity.
 				</p>
 				<p>Sei's open competition with men—even with those of a higher rank—gave the Heian
 					court a model of an openly combative woman who refused to acquiesce to the
@@ -2948,20 +2895,10 @@
 					Next to his message I wrote, 'If you do the work in this style, it will
 					certainly turn out strangely.' The document found its way to the imperial
 					apartment, and everyone who saw it was greatly amused—except, of course,
-					Nobutsune, who was furious and after this held a grudge against me." <note
-						type="scholarNote"><persName key="Sei Shōnagon"
-							ref="http://www.wikidata.org/entity/Q231603">Sei
-						Shonagon</persName>.</note> Murasaki acidly noted in her diary, "Someone
+					Nobutsune, who was furious and after this held a grudge against me." Murasaki acidly noted in her diary, "Someone
 					[Sei] who makes such an effort to be different from others is bound to fall in
 					people's esteem and I can only think her future will be a hard one. She is a
-					gifted woman, to be sure...how can things turn out well for such a woman?" <note
-						type="scholarNote"><persName key="Murasaki Shikibu"
-							ref="http://www.wikidata.org/entity/Q81731">Murasaki</persName> quoted
-						in introduction to <persName key="Sei Shōnagon"
-							ref="http://www.wikidata.org/entity/Q231603">Shonagon</persName> by
-							<persName key="Ivan Morris"
-							ref="http://www.wikidata.org/entity/Q3826587"
-					>Morris</persName>.</note></p>
+					gifted woman, to be sure...how can things turn out well for such a woman?"</p>
 				<p>Sei and Murasaki challenged the religious as well as social assumptions of their
 					society. They shaped as well as recorded their civilization; there are few other
 					instances of such literary power and evocativeness. History regards Heian Japan
@@ -2989,9 +2926,7 @@
 					morally and intellectually inferior to Genji that her conclusion has a hopeless
 					tone. Sei's devotion to the imperial family and her contempt for the lower
 					orders (an attitude that prompted a Japanese scholar to call her a "spiritual
-					cripple") <note type="scholarNote"><persName key="Ivan Morris"
-							ref="http://www.wikidata.org/entity/Q3826587">Morris</persName>,
-						introduction to <persName>Shonagon</persName>.</note> reveals a mindset that
+					cripple"). reveals a mindset that
 					for the Heian court was good breeding but for the modern reader is patronizing
 					and blind. Sei's circumscribed vision and partisanship today says more about the
 					exclusion of the lower classes from Heian society by omission than do the scanty

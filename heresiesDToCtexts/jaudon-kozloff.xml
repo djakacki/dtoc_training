@@ -8274,13 +8274,12 @@
 		<body>
 			<div cert="high" org="composite" part="Y" sample="initial" type="essay"
 				xml:space="default">
-				<!-- challenge -->
 				<pb
 					facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_041.jpg"
 					n="41" xml:id="img_0041"/>
 
 
-				<head><title>"Art Hysterical Notions" of Progress and Culture</title></head>
+				<head><title type="essay">"Art Hysterical Notions" of Progress and Culture</title></head>
 				<byline><persName key="Valerie Jaudon" ref="http://www.wikidata.org/entity/Q7911290"
 						type="real">Valerie Jaudon</persName> and <persName key="Joyce Kozloff"
 						ref="http://www.wikidata.org/entity/Q6297552">Joyce
@@ -8320,8 +8319,7 @@
 					>Slovaks</orgName>, peasants, the lower classes, women, children, savages,
 					pagans, sensuality, pleasure, decadence, chaos, anarchy, impotence, exotica,
 					eroticism, artifice, tattoos, cosmetics, ornament, decoration, carpets, weaving,
-					patterns, domesticity, wallpaper, fabrics and furniture.<note>The terms referred
-						to by the authors are synonymous with or related to low art.</note></p>
+					patterns, domesticity, wallpaper, fabrics and furniture.</p>
 				<p>All of these words appear in the quotations found throughout this piece. The
 					quotations are from the writings and statements of artists, art critics and art
 					historians. We do not pretend to neutrality and do not supply the historical
@@ -8332,20 +8330,14 @@
 
 				<head>WAR AND VIRILITY</head>
 				<p>Manifestoes of Modern Art often exhort artists to make violent, brutal work, and
-					it is no accident that men such as <persName>Hirsh<note type="annotation">Jaudon
-							and Kozloff could be referring to Joseph Hirsh, which might be a
-							misspelling of <persName key="Joseph Hirsch"
-								ref="http://www.wikidata.org/entity/Q6284010">Joseph
-								Hirsch</persName>, American painter and
-						illustrator.</note></persName>, <persName key="Diego Rivera"
+					it is no accident that men such as <persName>Hirsh</persName>, <persName key="Diego Rivera"
 						ref="http://www.wikidata.org/entity/Q171128">Rivera</persName>, and
 						<persName key="Pablo Picasso" ref="http://www.wikidata.org/entity/Q5593"
 						>Picasso</persName> like to think of their art as a metaphorical weapon. One
 					of the longstanding targets of this weapon has been the decorative. The scorn
 					for decoration epitomizes the machismo expressed by <persName key="Le Corbusier"
 						ref="http://www.wikidata.org/entity/Q4724">Le Corbusier</persName>,
-						<persName>Gabol Pevsner<note type="annotation">Authors could be referring to
-							Naum Gabo, KBE, born Naum Neemia Pevsner.</note></persName> and
+						<persName>Gabol Pevsner</persName> and
 						<persName key="Filippo Tommaso Marinetti"
 						ref="http://www.wikidata.org/entity/Q216582">Marinetti</persName>/<persName
 						key="Antonio Sant'Elia" ref="http://www.wikidata.org/entity/Q382053"

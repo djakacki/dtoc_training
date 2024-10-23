@@ -206,7 +206,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -283,7 +284,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -360,7 +362,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -437,7 +440,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -514,7 +518,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -591,7 +596,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -668,7 +674,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -745,7 +752,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -822,7 +830,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -898,7 +907,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -974,7 +984,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1050,7 +1061,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1130,7 +1142,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1206,7 +1219,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1282,7 +1296,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1359,7 +1374,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1436,7 +1452,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1514,7 +1531,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:low"
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1591,7 +1609,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1667,7 +1686,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1744,7 +1764,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1821,7 +1842,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1898,7 +1920,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1975,7 +1998,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -2052,7 +2076,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -2129,7 +2154,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -2206,7 +2232,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -2283,7 +2310,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -2359,7 +2387,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -2435,7 +2464,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -2512,7 +2542,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -2589,7 +2620,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -2666,7 +2698,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -2743,7 +2776,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -2820,7 +2854,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -2897,7 +2932,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -2974,7 +3010,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -3060,7 +3097,7 @@
 				<pb
 					facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_062.jpg"
 					n="62" xml:id="img_0062"/>
-				<head><title>Feminism: Has It Changed Art History?</title></head>
+				<head><title type="essay">Feminism: Has It Changed Art History?</title></head>
 				<byline><persName key="Mary Garrard" ref="http://www.wikidata.org/entity/Q19546794"
 						>Mary D. Garrard</persName></byline>
 				<epigraph>
@@ -3150,10 +3187,7 @@
 					traditional view of <persName key="Edgar Degas"
 						ref="http://www.wikidata.org/entity/Q46373">Degas</persName> as misogynist,
 					met with strong editorial resistance before it was accepted and was first
-					dismissed as a "women's lib tract." <note n="1" type="scholarNote">Norma Broude,
-						Degas' 'Misogyny,' <title key="The Art Bulletin"
-							ref="http://www.wikidata.org/entity/Q15766110" level="j">Art
-							Bulletin</title> (March, 1977), pp. 95-107.</note> Such irrational
+					dismissed as a "women's lib tract." Such irrational
 					reaction to logical revisions of thought stimulated by feminism ultimately
 					bespeaks a bunker mentality, a stubborn, last-ditch effort to keep women and
 					attitudes about them outside art history. And this in the discipline that deals
@@ -3226,22 +3260,9 @@
 					discusses the work largely in formalist terms, and for him, the picture has not
 					one but two contents, with Rosso relegating "mannered grace and subtly distilled
 					sensuality...to the feminine and minor components of the picture, and exploiting
-					the subject’s possibilities of violence instead." <note n="2" type="scholarNote"
-							><persName key="Walter Friedländer"
-							ref="http://www.wikidata.org/entity/Q70476">Walter
-							Friedlander</persName>, <title
-							key="Friedlaender, Walter, 1873-1966. | Mannerism and anti-mannerism in Italian painting"
-							ref="http://viaf.org/viaf/4497151051782333530007/" level="m">Mannerism
-							and Anti-Mannerism in Italian Painting</title> (New York: Schocken
-						Books, 1965), p. 32</note> By identifying the "subject" with the male actors
+					the subject’s possibilities of violence instead." By identifying the "subject" with the male actors
 					only, Freedberg mimics the very male solipsist attitude that Rosso appears to
-						ridicule. <note n="3" type="scholarNote"><persName
-							key="Sydney Joseph Freedberg"
-							ref="http://www.wikidata.org/entity/Q958839">Sydney J.
-							Freedberg</persName>, <title
-							key="Freedberg, S. J. (Sydney Joseph), 1914-1997. | Painting in Italy, 1500 to 1600"
-							ref="http://viaf.org/viaf/6316152865706404940004/">Painting in Italy,
-							1500 to 1600</title> (Baltimore, Penguin Books, 1971), p. 129.</note>
+						ridicule.
 					Most of all, it is strange that writers responsive to the expressive shift from
 					the calm seriousness of <persName key="Andrea del Sarto"
 						ref="http://www.wikidata.org/entity/Q5571">Andrea del Sarto</persName> to

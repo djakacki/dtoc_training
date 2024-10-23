@@ -29,8 +29,8 @@
                 "label": "People"
             },
             {
-                "xpath": "//placeName",
-                "label": "Places"
+                "xpath": "//title",
+                "label": "Titles"
             },
             {
                 "xpath": "//orgName",

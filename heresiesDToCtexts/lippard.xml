@@ -1858,7 +1858,7 @@
          <div cert="high" org="composite" part="Y" sample="initial" type="essay" xml:space="default">    
          <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_065.jpg" n="65" xml:id="img_0065"/>
             <head>
-               <title>Making Something from Nothing (Toward a Definition of Women’s “Hobby Art”)</title></head>
+               <title type="essay">Making Something from Nothing (Toward a Definition of Women’s “Hobby Art”)</title></head>
                <byline><persName key="Lucy R. Lippard" ref="http://www.wikidata.org/entity/Q137115">Lucy R. Lippard</persName></byline>
             <p>
                In 1968 <persName key="Griffith, Rubye Mae" ref="http://viaf.org/viaf/55774726/" cert="medium">Rubye Mae Griffith</persName> and

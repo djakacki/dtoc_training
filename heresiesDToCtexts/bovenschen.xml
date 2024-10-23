@@ -4370,24 +4370,11 @@
 				<pb
 					facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_013.jpg"
 					n="13" xml:id="img_0013"/>
-				<head><title>Is There a Feminine Aesthetic?</title></head>
+				<head><title type="essay">Is There a Feminine Aesthetic?</title></head>
 				<byline><persName key="Silvia Bovenschen"
 						ref="http://www.wikidata.org/entity/Q2286675" cert="high" role="aut"
 						type="real">Silvia Bovenschen</persName></byline>			
 			
-				<note>This article was
-					first published in German in <title key="Ästhetik &amp; Kommunikation"
-						ref="http://www.wikidata.org/entity/Q256852">Aesthetik und
-						Kommunikation</title>, No. 25, September <date when="1976" cert="high"
-						>1976</date>. We are reprinting excerpts from the article translated into
-					English by <persName role="trl">Beth Weckmueller</persName> and originally
-					published in <title key="New German Critique"
-						ref="http://www.wikidata.org/entity/Q7007780" level="j">New German
-						Critique</title>, No. 10, Winter <date when="1977">1977</date>. Permission
-					to reprint has been granted by the Editors of New German Critique, University of
-					Wisconsin- Milwaukee. German Department, P.O. Box 413, Milwaukee, Wis. 53201.
-				</note>
-
 			<div>
 				<head>Old and new appraisals of women's artistic production</head>
 				<p>The time has come for a campaign against all the weeping and wailing. Even the
@@ -4422,10 +4409,7 @@
 						key="Ernest Hemingway" ref="http://www.wikidata.org/entity/Q23434"
 						type="real" role="aut">Hemingway</persName> than with <persName
 						key="Virginia Woolf" ref="http://www.wikidata.org/entity/Q40909" cert="high"
-						role="aut">Virginia Woolf</persName> in my hands,"<note type="scholarNote"
-						>Shulamith Firestone, <title key="The Dialectic of Sex"
-							ref="http://www.wikidata.org/entity/Q7730063">The Dialectic of
-							Sex</title> (New York, 1970), p. 161.</note> says <persName
+						role="aut">Virginia Woolf</persName> in my hands," says <persName
 						key="Shulamith Firestone" ref="http://www.wikidata.org/entity/Q271551"
 						cert="high" role="aut">Shulamith Firestone</persName> about her development.
 					The pursuit of art, often based on the search for a realm of sensitivity in
@@ -4450,8 +4434,7 @@
 				<p><persName key="George Sand" ref="http://www.wikidata.org/entity/Q3816"
 						cert="high" role="aut">George Sand</persName>, <title
 						key="Histoire de ma vie" ref="http://www.wikidata.org/entity/Q3137363"
-						level="m">Histoire de ma Vie:</title><note type="scholarNote">George Sand,
-						Meine Lebensbeichte (Berlin-Leipzig, no date), p. 98.</note></p>
+						level="m">Histoire de ma Vie:</title></p>
 				<q>Mr. de Keraty followed me into the anteroom in order to debate with me, at yet
 					greater length, his theory concerning the intellectual inferiority of women. It
 					would be impossible for even the most intelligent woman to write a good work.
@@ -4465,10 +4448,7 @@
 					Though she is the great theme of art, woman as empirical being is acceptable
 					only by virtue of her supposed inspirational powers. "In an Amazon society there
 					could be neither culture nor history nor art, since art is not essential to
-						woman."<note type="scholarNote"><persName key="Karl Scheffler"
-							ref="http://www.wikidata.org/entity/Q113341">Karl Scheffler</persName>,
-							<title level="m">Die Frau und die Kunst</title> (Berlin, 1908), p.
-						29.</note> We know today, though only because we bothered to look into the
+						woman." We know today, though only because we bothered to look into the
 					matter ourselves, that it is not difficult to prove that such statements are
 					historically incorrect. They show (and help justify) that the masculine realm of
 					artistic production, and often the artistic products themselves, are not only
@@ -4503,11 +4483,7 @@
 				<p><persName key="Chantal Akerman" ref="http://www.wikidata.org/entity/Q239823"
 						role="fmk" type="real">Chantal Akerman</persName>, Interview in <title
 						key="Frauen und Film" ref="http://www.wikidata.org/entity/Q1451568"
-						level="j">Frauen und Film (Women and Film)</title>:<note type="scholarNote"
-						>Chantal Akerman, interview with Claudia Aleman in <title cert="high"
-							key="Frauen und Film" level="j" xml:space="default"
-							ref="http://www.wikidata.org/entity/Q1451568">Frauen und Film</title>, 7
-						(March, 1976).</note></p>
+						level="j">Frauen und Film (Women and Film)</title></p>
 				<q>If women imitate men's battles they will become weaker and weaker. They must find
 					new forms of struggle. This became evident in Hendave where women demonstrated
 					against the death sentence in Spain. Some women shouted and clenched their
@@ -4524,13 +4500,7 @@
 					led <persName key="Shulamith Firestone"
 						ref="http://www.wikidata.org/entity/Q271551" type="real"
 						>Firestone</persName> to the conclusion that "It would take a denial of all
-					cultural tradition for women to produce even a true 'female' art."<note
-						type="scholarNote"><persName key="Shulamith Firestone"
-							ref="http://www.wikidata.org/entity/Q271551">Firestone</persName>,
-							<title
-							key="Firestone, Shulamith. | Dialectic of sex the case for feminist revolution"
-							ref="http://viaf.org/viaf/719151052017733530008/" level="m">Dialectic of
-							Sex</title>, p. 159.</note> Such a statement is easily made. Indeed,
+					cultural tradition for women to produce even a true 'female' art." Such a statement is easily made. Indeed,
 					aesthetic norms and cultural standards have meaning only in their sublation. But
 					those standards and those norms were not even our own. What is the ground that
 					we are working? From where does a "feminine" art get its identity? Or does it
@@ -4592,21 +4562,12 @@
 					us for communicating our perceptions, our thought processes—language, forms,
 					images—are for the most part not originally our own, not of our own choosing.
 					Here we are still at the beginning. Sensitivity to the patriarchal structures
-					common to language usage<note type="scholarNote"><persName key="Verena Stefan"
-							ref="http://www.wikidata.org/entity/Q1431125">Verena Stefan</persName>,
-							<title key="Stefan, Verena 1947-2017 | Häutungen"
-							ref="http://viaf.org/viaf/199736055/">Hautungen</title> (1975), English
-						translation under the title Shedding (translation by <persName>Johanna
-							Moore</persName> and <persName key="Weckmueller, Beth Lee"
-							ref="http://viaf.org/viaf/41123901/">Beth Weckmueller</persName>) to be
-						published in Spring, 1978 by Daughters, Inc., New York.</note> is certainly
+					common to language usage is certainly
 					a step in this direction.</p>
 			</div>
 			<div>
 				<p><persName key="Lucy R. Lippard" ref="http://www.wikidata.org/entity/Q137115">Lucy
-						Lippard</persName>: "<title>Why a separate women's art?</title>"<note
-						type="scholarNote">Lucy Lippard, "Warum separierte Frauenkunst?" in
-						Feminismus: Kunst und Kreativitat.</note></p>
+						Lippard</persName>: "<title>Why a separate women's art?"</title></p>
 				<q>What seems to be most important in this whole matter is that we focus our eyes
 					and our feelings upon the flashes of insight which our feminine sensitivity
 					affords us.</q>
@@ -4617,9 +4578,7 @@
 						ana="Film Criticism" cert="high" xml:space="default"><title
 							key="Filmkritik (Zeitschrift)"
 							ref="http://www.wikidata.org/entity/Q1415107"
-						>Filmkritik</title></foreign>:<note type="scholarNote">Frieda Grafe, "Ein
-						anderer Eindruck vom Begriff meines Korpers," in Filkritik (March,
-						1976).</note></p>
+						>Filmkritik</title></foreign></p>
 				<q>Language, the medium of my work, is for me already so generalized and mute that I
 					cannot strive for even further generalities. Instead, I direct all my energies
 					toward making the wall of generalities so thin that something will be able to
@@ -4654,8 +4613,7 @@
 				<p><persName key="Sylvia Plath" ref="http://www.wikidata.org/entity/Q133054">Sylvia
 						Plath</persName>, in <title key="The Bell Jar"
 						ref="http://www.wikidata.org/entity/Q1213085" cert="high" level="m">The Bell
-						Jar</title>:<note type="scholarNote">Sylvia Plath, The Bell Jar (London,
-						1963), p. 88.</note></p>
+						Jar</title></p>
 				<q>Once when I visited Buddy I found Mrs. Willard braiding a rug out of strips of
 					wool from Mr. Willard's old suits. She'd spent a week on that rug, and I had
 					admired the tweedy browns and greens and blues patterning the braid, but after
@@ -4764,9 +4722,7 @@
 				<p><persName key="Virginia Woolf" ref="http://www.wikidata.org/entity/Q40909"
 						>Virginia Woolf</persName> on the language of <persName
 						key="Dorothy Richardson" ref="http://www.wikidata.org/entity/Q447268"
-						role="aut">Dorothy Richardson</persName>:<note type="scholarNote">Virginia
-						Woolf, "<title>Romance and the Heart</title>" in Contemporary Writers. p.
-						124f.</note></p>
+						role="aut">Dorothy Richardson</persName></p>
 				<q>She has invented, or, if she has not invented, developed, and applied to her own
 					uses, a sentence that we might call the psychological sentence of the feminine
 					gender. It is of a more elastic fiber than the old, capable of stretching to the
@@ -4785,8 +4741,7 @@
 			<div>
 				<p><persName key="Dorothy Richardson" ref="http://www.wikidata.org/entity/Q447268"
 						type="real">Dorothy Richardson</persName> on the masculine manner of
-						writing:<note type="scholarNote">Dorothy Richardson, <title level="m">Dawn's
-							Left Hand</title>, p. 202f.</note></p>
+						writing.</p>
 				<q>The self-satisfied, complacent, know-all condescendingness of their handling of
 					their material... The torment of all novels is what is left out. The moment you
 					are aware of it there is torment in them. Bang, bang, bang, on the go, these

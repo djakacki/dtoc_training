@@ -184,7 +184,8 @@
 	"cwrc:hasCertainty": "cwrc:high",
 	"cwrc:hasPrecision": "cwrc:highCertainty"
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -261,7 +262,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -339,7 +341,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -417,7 +420,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -494,7 +498,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -571,7 +576,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -648,7 +654,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -726,7 +733,8 @@
 	"cwrc:hasCertainty": "cwrc:high",
 	"cwrc:hasPrecision": "cwrc:highCertainty"
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -802,7 +810,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -879,7 +888,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -957,7 +967,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1034,7 +1045,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1110,7 +1122,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1187,7 +1200,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1264,7 +1278,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1341,7 +1356,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1418,7 +1434,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1495,7 +1512,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1572,7 +1590,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1648,7 +1667,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1724,7 +1744,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1800,7 +1821,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1876,7 +1898,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1952,7 +1975,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -2028,7 +2052,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -2104,7 +2129,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -2180,7 +2206,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -2256,7 +2283,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -2332,7 +2360,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -2408,7 +2437,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -2484,7 +2514,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -2562,7 +2593,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -2638,7 +2670,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -2725,7 +2758,7 @@
 				<pb cert="high" xml:space="default"
 					facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_026.jpg"
 					n="23"/>
-				<head><title>The Left Hand of History</title></head>
+				<head><title type="essay">The Left Hand of History</title></head>
 				<byline><persName key="Teresa de Lauretis"
 						ref="http://www.wikidata.org/entity/Q292326" cert="high" role="aut"
 						type="real">Teresa De Lauretis</persName></byline>
@@ -2784,10 +2817,7 @@
 						<persName key="Adele Cambria" ref="http://www.wikidata.org/entity/Q3605177"
 						>Adele Cambria</persName>, a feminist writer and one of the editors of the
 					major Italian feminist monthly <title key="Effe"
-						ref="http://www.wikidata.org/entity/Q28136179">EFFE</title>.<note n="1"
-						type="scholarNote">Adele Cambria, Amore come rivoluzione (Milano: Sugar Co.,
-						1976): The volume includes the script and production notes for Nonostante
-						Gramsci.</note> Cambria formulated and conducted the research, but the
+						ref="http://www.wikidata.org/entity/Q28136179">EFFE</title>. Cambria formulated and conducted the research, but the
 					theatrical work was performed, directed and written collectively. The published
 					volume, entitled <title>Amore come rivoluzione (Love as Revolution)</title>
 					contains I believe not two texts—one creative/artistic and one
@@ -2802,12 +2832,7 @@
 				<p> During the last eleven years of his life, the imprisoned Gramsci wrote the bulk
 					of his theoretical work now published as Quaderni dal carcere (<title
 						key="Prison Notebooks" ref="http://www.wikidata.org/entity/Q1113267"
-						level="j">Prison Notebooks</title>)<note n="2" type="scholarNote">The
-						complete Italian edition, in four volumes, is Antonio Gramsci, Quaderni dal
-						carcere, a cura di Valentino Gerratana (Torino: Einaudi, 1975). In English
-						see Selections from the Prison Notebooks of Antonio Gramsci, edited and
-						translated by Quintin Hoare and Geoffrey Nowell Smith (New York:
-						International Publishers, 1971).</note> In 1922 Gramsci spent several months
+						level="j">Prison Notebooks</title>) In 1922 Gramsci spent several months
 					in the Soviet Union as Italian envoy to the Executive Committee of the Communist
 					International. While hospitalized in a sanatorium outside Moscow, he met Eugenia
 					Schucht, also a patient in the hospital, and her sister Giulia. Giulia and
@@ -2824,12 +2849,7 @@
 					She supported him materially and spiritually, assisting him through his long
 					agony. It is Tatiana who rescued Gramsci’s Prison Notebooks after his death.
 					But, history being the history of men, only Gramsci’s letters were deemed
-					important historical documents.<note n="3" type="scholarNote">Antonio Gramsci,
-						Lettere dal carcere, a cura di S. Caprioglio e E. Fubini (Torino: Einaudi,
-						1973). In English see Antonio Gramsci, Letters from Prison, selected and
-						translated by Lynne Lawner (New York: Harper and Row, 1973). See also
-						Guiseppe Fiori, Antonio Gramsci: Life of a Revolutionary (New York: Schocken
-						Books, 1973).</note> The letters he received from Giulia and Tatiana were
+					important historical documents. The letters he received from Giulia and Tatiana were
 					not published, although they existed, lying in a file at the Gramsci Institute
 					in Rome. Official historiography scorned them. They were women's letters,
 					dealing "only with children and marmalade," banal, insignificant. Little
@@ -2862,9 +2882,7 @@
 					an “affective biography” of the Schuchts and to discover the sources and modes
 					of that “emotional energy” <persName key="Shulamith Firestone"
 						ref="http://www.wikidata.org/entity/Q271551">Shulamith Firestone</persName>
-					identifies as the essential female contribution to male thought.<note n="4"
-						type="scholarNote">The Dialectic of Sex: The Case for Feminist Revolution
-						(New York: Bantam Books, 1970), pp. 126-127.</note> Cambria’s project was a
+					identifies as the essential female contribution to male thought. Cambria’s project was a
 					political one: to rewrite history, inscribing in it the missing voices of women,
 					and therefore to examine the relationships between the private and the public,
 					love and revolution, personal/sexual/emotional needs and political
@@ -2878,10 +2896,7 @@
 					a mass without ever having loved anyone .. whether one could love a collectivity
 					if one hadn’t deeply loved some single human beings . . . Wouldn’t this have
 					made barren my qualities as a revolutionary, wouldn’t it have reduced them to a
-					pure intellectual fact, a pure mathematical calculation? <note n="5"
-						type="scholarNote">5. Quoted by Cambria, p. 9, from Duemila pagine di
-						Gramsci (Milano: Il Saggiatore), Vol. II, p. 23, letter of June 9, 1924; my
-						translation.</note></quote>
+					pure intellectual fact, a pure mathematical calculation? </quote>
 				<p> Gramsci’s question unwinds the ideological thread that runs through Cambria’s
 					work and the collective theater production, both of which focus on the "private
 					aspect" of Gramsci’s life. Thus an understanding of the Schucht family is
@@ -2891,8 +2906,7 @@
 					Stalinism and Fascism.</p>
 				<p>Apollo Schucht, father of the three sisters, was an exile from czarist Russia who
 					had settled in Rome in 1908. Born into the upper bourgeoisie, he had belonged to
-					the Russian populist social reform movement<note type="researchNote">Political
-						stance that emphasizes the ideas, wants, needs of the people. </note>
+					the Russian populist social reform movement
 						(<lang>narodvolcstvo</lang>) in the mid-nineteenth century. Deported with
 					Lenin to Siberia where his third daughter, Eugenia, was born, he asked his
 					friend Lenin to be her "godfather." The family lived in Rome from 1908 to 1917.
@@ -2987,9 +3001,7 @@
 					conceptually or through any type of personal power, and the unreality of her
 					existence that could not function within any socially accepted mode of female
 					behavior, pushed Giulia to live her rebellion inwardly, in total passivity. This
-					is precisely what is often diagnosed as madness in women.<note n="6"
-						type="scholarNote">6. Cf. Phyllis Chesler, Women and Madness (Garden City,
-						N.Y.: Double- day, 1972).</note></p>
+					is precisely what is often diagnosed as madness in women.</p>
 				<p> In a sense, the personalities and social roles assumed by the three Schucht
 					sisters sketch almost to a T the only choices allowed women in most Western
 					cultures: service functions within male structures, adherence to the feminine
@@ -3003,9 +3015,7 @@
 					alternatives. Her decision to avoid a “novelistic” organization was a political
 					as well as aesthetic choice: as recent critical theory in literature and film
 					argues, narrative form is the primary aesthetic code developed to convey
-					bourgeois and counter-revolutionary values.<note n="7" type="scholarNote">7.
-						From Umberto Eco, Opera aperta (Milano: Bompiani, 1967) to Stephen Heath,
-						“Narrative Space,” Screen (Autumn 1976), pp. 68-112.</note> Simply printing
+					bourgeois and counter-revolutionary values. Simply printing
 					the letters without attempting to reproduce such “physical” qualities as hand
 					writing, or the context in which they were written and discovered, would have
 					erased altogether the function of the subject (Cambria herself), as both writer
@@ -3027,15 +3037,7 @@
 					the elegant old-fashioned handwriting of Tatiana, the broken sentences and
 					pencil scrawls of an already ill Giulia. Cambria also describes her feelings as
 					she approached the Moscow house where Giulia lived and where Cambria interviewed
-					her son Giuliano.<note n="8" type="scholarNote">8. On the conditions of women in
-						the Soviet Union since the revolution, see Sheila Rowbotham, “If You Like
-						Tobogganing” in her Women, Resistance and Revolution (New York: Vintage
-						Books, 1974), pp. 134-169. Also very important to this topic is the work of
-						Alexandra Kollontai, The Auto biography of a Sexually Emancipated Communist
-						Woman (New York: Schocken Books, 1975). Women Workers Struggle for Their
-						Rights (Bristol: Falling Wall Press, 1971), and Sexual Relations and the
-						Class Struggle/Love and the New Morality (Bristol: Falling Wall Press,
-						1972).</note></p>
+					her son Giuliano.</p>
 				<p> Cambria conveys to readers how she absorbed Giulia, Tatiana and Eugenia as
 					fragments of her own self, how their experiences can act as reactor to other
 					women’s understanding of themselves; she also conveys her elation in discovering
@@ -3099,21 +3101,10 @@
 					contemporary poems and other quotations which serve as intertextual links to
 					expand the historical resonance of the themes.</p>
 				<p> The characteristic features of Cambria’s entire work point to a new practice and
-					vision of the relation between subject and modes of textual production.<note
-						n="9" type="scholarNote">9. For the notion of modes of sign production see
-						Umberto Eco, A Theory of Semiotics (Bloomington: Indiana University Press,
-						1976) and Gianfranco Bettetini, Produzione del senso e messa in scena
-						(Milano: Bompiani, 1975)</note> As for the form of content: historical, not
+					vision of the relation between subject and modes of textual production. As for the form of content: historical, not
 					mythical materials are chosen from a concrete situation and real events. These
 					are not necessarily contemporary but always refer to the current concerns of the
-						audience.<note n="10" type="scholarNote">10. In the words of Dacia Maraini,
-						who reviewed Amore come rivoluzione, “books like this should be written by
-						the hundreds. There are hundreds of extraordinary women who have so much to
-						teach us (even if often they only speak of failures and defeat), women still
-						buried under the barren, impious ashes of patriarchal history.” (Tuttolibri,
-						17 aprile 1976, p. 4; my transla tion). The terms form of content and form
-						of expression come from Louis Hjelmslev, Prolegomena to a Theory of Language
-						(Madison: University of Wisconsin Press, 1961).</note> The historical events
+						audience. The historical events
 					are examined in their socio-cultural complexity from the ideological and
 					emotional viewpoints of contemporary feminism. The human sources of these
 					views—writers, performers and the specific audience addressed (this is a play
@@ -3143,10 +3134,7 @@
 					nature outside of historical development; and that to insist on such notions as
 					irrational perception, cosmic powers or archetypal forms as categories for
 					femaleness is at best playing men’s games, and at worst indulging in reactionary
-						ideologies.<note n="11" type="scholarNote">11. Silvia Bovenschen, “Is There
-						a Feminine Aesthetic?”, New German Critique, 10 (Winter 1977), pp. 111-137
-						and Heresies f4, pp. 10-12. Altman’s recent film, Three Women, seems to me
-						to come close to the latter group.</note> Since it is the specifics of
+						ideologies. Since it is the specifics of
 					feminine experience and perception that determine the form the work takes, we
 					must not accept a priori categories and should look for evidence of feminine
 					sensitivity in concrete tests. It is good, Bovenschen claims, that no formal
@@ -3157,11 +3145,7 @@
 					receivers) the aesthetic object, the text; in other words, we need a theory of
 					culture with women as subjects—not commodities but social beings producing and
 					reproducing cultural products, transmitting and transforming cultural
-						values.<note n="12" type="scholarNote">12. For a good analysis of women’s
-						position as objects of exchange in Lévi Strauss and Freud/Lacan, see Gayle
-						Rubin, “The Traffic in Women: Notes on the Political Economy of Sex, in
-						Rayna R. Reiter, ed., Toward an Anthropology of Women (New York: Monthly
-						Review Press, 1975), pp. 157-210.</note></p>
+						values.</p>
 				<p> In this sense, and so that we can take possession of our cultural
 					(re)production, 1 think we should assert that women’s work is never done. </p>
 			</div>

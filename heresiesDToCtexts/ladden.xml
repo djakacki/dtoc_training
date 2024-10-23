@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -116,10 +117,21 @@
 				</biblStruct>
 			</sourceDesc>
 		</fileDesc>
-		
-	<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+				xmlns:as="http://www.w3.org/ns/activitystreams#"
+				xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/"
+				xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#"
+				xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+				xmlns:fabio="https://purl.org/spar/fabio#"
+				xmlns:bf="http://www.openlinksw.com/schemas/bif#"
+				xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#"
+				xmlns:org="http://www.w3.org/ns/org#">
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -196,10 +208,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -274,10 +284,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -352,10 +360,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -430,10 +436,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -509,10 +513,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:low"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -588,10 +590,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:low"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -667,10 +667,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -745,10 +743,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -823,10 +819,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -901,10 +895,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -979,10 +971,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1057,10 +1047,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1135,10 +1123,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1213,10 +1199,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1291,10 +1275,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1369,10 +1351,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1447,10 +1427,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1525,10 +1503,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1603,10 +1579,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1681,10 +1655,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1759,10 +1731,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1837,10 +1807,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1915,10 +1883,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1993,10 +1959,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2071,10 +2035,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2152,10 +2114,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2230,10 +2190,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2308,10 +2266,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2386,10 +2342,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2464,10 +2418,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2542,10 +2494,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2620,10 +2570,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2698,10 +2646,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2776,10 +2722,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2854,10 +2798,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2932,10 +2874,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3010,10 +2950,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3088,10 +3026,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3166,10 +3102,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3244,10 +3178,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3322,10 +3254,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3400,10 +3330,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3478,10 +3406,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3556,10 +3482,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3634,10 +3558,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3712,10 +3634,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3790,10 +3710,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3868,10 +3786,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3946,10 +3862,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4024,10 +3938,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4102,10 +4014,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4180,10 +4090,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4258,10 +4166,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4336,10 +4242,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4414,10 +4318,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4492,10 +4394,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4570,10 +4470,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4648,10 +4546,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4726,10 +4622,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4804,10 +4698,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4882,10 +4774,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4960,10 +4850,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -5038,10 +4926,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -5116,10 +5002,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -5194,293 +5078,252 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      </rdf:RDF></xenoData></teiHeader>
+				</rdf:Description>
+			</rdf:RDF></xenoData>
+	</teiHeader>
 	<text>
 		<body>
-			<div cert="high" org="composite" part="Y" sample="initial" type="essay" xml:space="default">
-				<pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_019.jpg" n="19" xml:id="img_0019"/>
-					<head><title>The Martyr Arts</title></head>
-					<byline><persName key="Arlene Ladden" ref="http://www.wikidata.org/entity/Q106878856">Arlene
-						Ladden</persName></byline>
-<p> "If. . . you are asked to do a lot of giving without . .. reward," says <title key="Fascinating Womanhood" ref="http://www.wikidata.org/entity/Q5436653" cert="high"><emph>Fascinating Womanhood</emph></title>, which ranks self-effacement with
-					God and the flag, "remember, <emph>when you cast your bread upon the waters, it
-						comes back buttered.</emph>" The phrase sums up the martyred woman today:
-					passive and awed by powerful tides, she willingly surrenders everything to fate
-					while standing in a sea of grease. There—isolated, unabated—she practices...</p>
+			<div cert="high" org="composite" part="Y" sample="initial" type="essay"
+				xml:space="default">
+				<pb
+					facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_019.jpg"
+					n="19" xml:id="img_0019"/>
+				<head><title type="essay">The Martyr Arts</title></head>
+				<byline><persName key="Arlene Ladden"
+						ref="http://www.wikidata.org/entity/Q106878856">Arlene
+					Ladden</persName></byline>
+				<p> "If. . . you are asked to do a lot of giving without . .. reward," says <title
+						key="Fascinating Womanhood" ref="http://www.wikidata.org/entity/Q5436653"
+						cert="high"><emph>Fascinating Womanhood</emph></title>, which ranks
+					self-effacement with God and the flag, "remember, <emph>when you cast your bread
+						upon the waters, it comes back buttered.</emph>" The phrase sums up the
+					martyred woman today: passive and awed by powerful tides, she willingly
+					surrenders everything to fate while standing in a sea of grease. There—isolated,
+					unabated—she practices...</p>
 
-					<pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_020.jpg" n="20" xml:id="img_0020"/>
+				<pb
+					facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_020.jpg"
+					n="20" xml:id="img_0020"/>
 
-					<p>A look at early Christian history shows that woman's lot was anything but a
-						lot. Man's marriage to woman was grudgingly conceded as a necessary evil.
-							<note type="scholarNote">Since woman was considered a temptress irresistible to the weak,
-							St. Paul preferred marriage when adultery seemed inevitable, conceding:
-							"It is better to marry than to burn." (<title key="First Epistle to the Corinthians" ref="http://www.wikidata.org/entity/Q80355" level="a">I Corinthians 7:9</title>).</note> She
-						was a "foe to friendship, an inevitable penance...a domestic
-							peril."<note type="annotation">Salimbene, in <title>From St. Francis to Dante:
-								Translations from the Chronicle of the Franciscan Salimbene
-								(1221-1288)</title>, 2nd ed., ed. and trans G. G. Coulton (London:
-							David Nutt, 1907), p. 97. Salimbene falsely attributes these epithets to
-							St. Chrysostom, whose own expression was equally appalling, if less
-							succinct.</note> It was officially questioned whether woman had a soul
-						(in 585, the Council of Macon decided that she did, but only by a single
-						vote). <note type="annotation"><persName key="Murstein, Bernard I." ref="http://viaf.org/viaf/164112810/">Bernard Murstein</persName>, <title>Love, Sex and Marriage Through the
-								Ages</title> (New York: Springer Publishing Co., 1974), p.
-							94.</note> Repeatedly admonished to "be in subjection to [her] own
-						husband," <note type="scholarNote">1 Peter 3:1. These sentiments, with virtually identical
-							wording, are expressed also in Ephesians 5:22, Collosians 3:18 and,
-							later, in the first enduring systematization of church law, Gratian’s
-								<title key="Decretum" ref="http://www.wikidata.org/entity/Q1182119">Decretum</title> (c. 1140), quoted in <title>Not in God’s
-								Image</title>, ed. Julia O’Faolain and Lauro Martines (New York:
-							Harper and Row, 1973), p. 130.</note> she was, at best, "a natural
-						temptation, a coveted calamity." <note type="annotation">Salimbene, p. 97.</note> A weak
-						vessel for man's seed, she was a plaque on which he could mount his sexual
-						organ.</p>
+				<p>A look at early Christian history shows that woman's lot was anything but a lot.
+					Man's marriage to woman was grudgingly conceded as a necessary evil. She was a
+					"foe to friendship, an inevitable penance...a domestic peril." It was officially
+					questioned whether woman had a soul (in 585, the Council of Macon decided that
+					she did, but only by a single vote). Repeatedly admonished to "be in subjection
+					to [her] own husband," she was, at best, "a natural temptation, a coveted
+					calamity." A weak vessel for man's seed, she was a plaque on which he could
+					mount his sexual organ.</p>
 
-					<p>For the religious woman, who naturally <emph>believed</emph> her life
-						worthless, there were few alternatives. She could dumbly worship the saints
-						or, if ambitious enough, she could emulate them: <persName key="Simeon Stylites" ref="http://www.wikidata.org/entity/Q310987">St. Simon Stylites</persName> ate very little; <persName key="John of the Cross" ref="http://www.wikidata.org/entity/Q190388" cert="low">St. John of the Cross</persName> licked the sores of lepers.
-							<note type="scholarNote">For factual information relating to the saints, martyrs and
-							mystics, I have primarily referred to Henry Osborn Taylor, "Mystic
-							Visions of Ascetio Women," in <title>The Medieval Mind</title>
-							(Cambridge, Mass.: Harvard University Press, 1959), vol. I, pp. 458-486;
-							Rev. S. Baring-Gould, <title>The Lives of the Saints</title>, rev. ed.,
-							16 vols. (Edinburgh: John Grant, 1914); Donald Attwater’s <title>The
-								Penguin Dictionary of Saints</title> (New York: Penguin Books,
-							1965); and, for the more gruesome cases, Gordon Rattray Taylor,
-								<title>Sex in History</title> (New York: Harper and Row, 1970), pp.
-							31-50 and <emph>passim</emph> as well as Havelock Ellis, “The
-							Auto-Erotic Factor in Religion,” in <title key="Studies in the Psychology of Sex Vol. 1" ref="http://www.wikidata.org/entity/Q42105417">Studies in the
-								Psychology of Sex</title> (New York: Random House, 1936). vol. I,
-							pp. 310-325.</note> And while some women performed no less austerely
-							(<persName key="Rose of Lima" ref="http://www.wikidata.org/entity/Q244383" cert="low">St.
-							Rose</persName> ate nothing but sheep’s gall, ashes and bitter herbs,
-						and she drank the blood of a sick patient), many—martyred through constant
-						devotion and sacrifice—displayed a peculiar brand of sensuality.</p>
-					<p><persName key="Veronica Giuliani" ref="http://www.wikidata.org/entity/Q239160" cert="high">Veronica
-							Guliani</persName>—who went to bed with, and kissed, and suckled a lamb,
-						the lamb being a symbol of Christ—is perhaps atypical. But not <persName key="Mechthilde of Madgeburg" ref="https://en.wikipedia.org/wiki/Mechthild_of_Magdeburg">Mechthilde of
-							Madgeburg</persName>, who preferred to see Jesus as "charming,"
-						affectionate and 18 years old. Nor <persName key="Margaret of Ypres" ref="http://www.wikidata.org/entity/Q42377953">Margaretha of
-							Ypern</persName><note type="researchNote">Chances are this is a
-							reference to Margaret of Ypres, who lived a "holy life" of complete
-							devotion, died young, and was a little bit insane
-							(https://en.wikipedia.org/wiki/Margaret_of_Ypres)</note>, who thought
-						herself "engaged" to Jesus. Nor <persName key="Christina Ebner" ref="http://www.wikidata.org/entity/Q70684">Christine Ebner</persName>,
-						who imagined she carried Jesus’ child. The church deliberately inspired such
-						sensuous imaginings. "Ever let the Bridegroom sport with you within [your
-						chamber]," <persName key="Jerome" ref="http://www.wikidata.org/entity/Q44248">St. Jerome</persName> wrote
-						to a virgin. "When sleep falls on you, He will come beside the wall and will
-						put his hand through the hole in the door and will touch your belly ... "<note type="scholarNote">Epistle 22 in <title key="Select Letters of St. Jerome: With an English Translation. F. A. Wright" ref="http://www.wikidata.org/entity/Q59738840">Select Letters of St.
-								Jerome</title>, trans. F. A. Wright (Cambridge, Mass.: Harvard
-							University Press, 1963), p. 109. The translator has rendered "belly"
-								(<emph>ventrem</emph>) as "flesh"; perhaps he has censored the saint
-							in the interest of delicacy.</note> With nuns "marrying" Christ in a
-						formal ceremony—their "I love Christ into whose bed I have entered" being
-						roughly equivalent to the modern "I do"—it is not surprising that, while
-						most martyrs sought to transcend the body, female martyrdom at times
-						unveiled a complexion entirely its own. Pocked with the scars of
-							lacerations and burnings,
-						flushed with desire for a polygamous, heterosexual Jesus, it encouraged a
-						centuries-long tradition of woman's self-sacrifice and suffering for man.
-						For only by cleaving to a seeming savior or holy man could a woman hope to
-						rise even a fraction as much as she had fallen.</p>
-					<p> Take the example of <persName key="Margaret Mary Alacoque" ref="http://www.wikidata.org/entity/Q235853">Margaret-Mary
-							Alacoque</persName>, a particularly fervent practitioner. She shafted a
-						novice for rivaling her holiness, lest she rival her also in the Savior’s
-						affections. And while her frequent convulsions were probably due to
-						austerity—she drank mostly dirty wash-water, and drank nothing at all from
-						Thursday to Sunday (though she occasionally licked up vomit with her
-						tongue)—she was hotly feverish with love of Jesus, even tattooing his name
-						on her chest with a small knife. (When the scars healed, she burned in the
-						insignia with a candle.) Such actions were proof of a beautiful soul.</p>
-					<p>Suffering has long been a value in the west. An attribute of saints and a
-						must for martyrs, it has also lately been required of the artist, who, as
-							<persName key="Susan Sontag" ref="http://www.wikidata.org/entity/Q152824">Susan Sontag</persName>
-						aptly notes, now replaces the saint as exemplary sufferer. <note type="scholarNote">"The Artist
-							as Exemplary Sufferer," in <title key="Sontag, Susan 1933-2004 | Against interpretation" ref="http://viaf.org/viaf/310912312/">Against Interpretation and
-								Other Essays</title> (New York: Dell, 1961), p. 42.</note> And
-						Sontag’s tenet, I think, can be reversed: the saint, or martyr, was a kind
-						of artist in earlier times. Aestheticians like <persName key="Jacques Maritain" ref="http://www.wikidata.org/entity/Q45723">Jacques Maritain</persName> would seem to agree, seeing art as
-						"mak[ing] a form shine on the matter," form being “the profound splendor of
-						the soul shining through .. . the principle . . . of pain and passion."
-						Living in true perfection, he says, "may be metaphorically described as an
-						art . . . an art which only the saints master fully." <note type="annotation">9. <title key="Maritain, Jacques, 1882-1973. | Art et scolastique" ref="http://viaf.org/viaf/307975331/">Art et Scholastique</title>
-							(Paris: Louis Rouart et Fils, 1927), pp. 20-21, 44, 46. My
-							translations.</note></p>
-					<p>Now, that Margaret-Mary wasn’t perfect is not important; it’s enough that the
-						church assures us she was. What is important is that she was an exemplary
-						sufferer if there ever was one. She suffered; she suffered wholly and
-						completely—and this gave her a decided advantage. For, notes Sontag, quoting
-						from the diary of a suffering artist, only through such total surrender can
-						we "disarm the power of suffering make it our own creation, our own choice."
-							<note type="annotation">Sontag, quoting Caesar Pavese, p. 43.</note> By giving in to
-						suffering, we mold it, reshape it. We sublimate suffering into art.</p>
-					<p>That life and art can be one and the same is an old idea. <persName key="John Dewey" ref="http://www.wikidata.org/entity/Q131805">John
-							Dewey</persName>
-						<note type="annotation">"Having an Experience," in <title key="Art as Experience" ref="http://www.wikidata.org/entity/Q2690629">Art as
-								Experience</title> (New York: Capricorn Books, 1934), pp.
-							35-37.</note> upheld it, defining art as any activity reshaping
-						experience more meaningfully, coherently and vividly than ordinary life
-						allows. "Emotion," he says, "is . . . the cementing force." By selecting and
-						coloring, it unifies the disparate events of experience, transforming them
-						into <emph>an</emph> experience. "The enemies of the aesthetic," says Dewey,
-						"are neither the practical or the intellectual. They are the hum-drum."</p>
-					<p>However repugnant Margaret-Mary’s actions may seem, by male aesthetic
-						criteria Margaret-Mary was an artist and her martyrdom was art. It dictated
-						her every action, and her every action was contrived to reflect a beautiful
-						soul. Martyrdom provided her with a form for her life, and through it she
-						assumed control over the fragmented matter of her existence. She indulged in
-						suffering; it engrossed her, diverted her, and thoroughly absorbed her. Pain
-						became objectified. Life became a passionate performance (indeed, her breast
-						resembled a theater marquee), soulful, dramatic cohesive, consistent and
-						meaningful. By classical definitions of art, her life, in assuming a
-						magnitude and order, fulfilled the conditions of the beautiful. In fact,
-						martyrdom for Jesus, and later secularized martyrdom for man, has been one
-						of woman’s most pervasive and enduring traditional art forms.</p>
-					<p>For Margaret-Mary was not alone in indulging in suffering; other women
-						matched her passion. <persName key="Christina Ebner" ref="http://www.wikidata.org/entity/Q70684">Christine Ebner</persName>
-						etched out a cross on the skin of her chest and tore it off. <persName key="Mary Magdalene dei Pazzi" ref="https://en.wikipedia.org/wiki/Mary_Magdalene_de'_Pazzi">Mary
-							Magdalene dei Pazzi</persName> had herself cut, trampled, whipped and
-						burned. Christine of St. Trond<note type="scholarNote">Possibly "Christina
-							the Astonishing" </note> had herself bound, hung, racked, buried and
-						baked. Surely, Christianity’s chapter on the martyrs and mystics is one of
-						the most astounding chapters in history. Less astounding, perhaps, are the
-						women who, like <persName key="Felicula" ref="http://www.wikidata.org/entity/Q299832">Felicula</persName> or
-							<persName key="Agnes of Rome" ref="http://www.wikidata.org/entity/Q210096">Saints Agnes</persName> and
-							<persName key="Agatha of Sicily" ref="http://www.wikidata.org/entity/Q200895">Agatha</persName>, opted
-						for tortures over marriage. These women were saving themselves for Christ
-						and wouldn’t succumb. But there were also martyrs among those who did, like
-							Therese, a
-						nineteenth century madwoman and would-be mystic whose longing for Christ
-						drove her insane until finally, distracted, demoralized and
-						institutionalized, she wrote: "Now I only believe in God and suffering. I
-						feel it is necessary to get married." <note type="scholarNote">12. Therese’s case is treated by
-							Ellis, pp. 316-319.</note> Therese was deranged, but her resignation
-						reflected a sordid truth: for many who lived in later centuries, marriage
-						itself had become yet another form of martyrdom, supplying an aesthetic
-						where none existed.</p>
-					<p>The altruistic female sacrificing for a husband was an old ideal. The
-						twelfth-century <persName key="Marie de France" ref="http://www.wikidata.org/entity/Q5617">Marie de France</persName>
-						featured her in <title key="Eliduc" ref="http://www.wikidata.org/entity/Q5360690">Eliduc</title> where a
-						wife graciously surrenders her husband to a woman he loves. Years later, she
-						welcomes the new wife into her convent where, sisters in Christ, the two
-						women are bound again by love for a single man, the husband and Christ
-						being, metaphorically, one and the same.</p>
-					<p>By the fourteenth century, with <persName key="Geoffrey Chaucer" ref="http://www.wikidata.org/entity/Q5683">Chaucer's</persName> and
-							<persName key="Giovanni Boccaccio" ref="http://www.wikidata.org/entity/Q1402">Boccaccio’s</persName>
-						patient Griselda<note type="researchNote">a reference to "The Clerk's Tale,"
-							from "The Canterbury Tales," wherein "the tale of Griselda, a young
-							woman whose husband tests her loyalty in a series of cruel torments that
-							recall the biblical Book of Job," is told
-							(https://en.wikipedia.org/wiki/The_Clerk%27s_Tale)</note>, the emphasis
-						had changed. <note type="scholarNote">See Chaucer’s "Clerk’s Tale" and the tenth tale of the
-							tenth day in Boccaccio’s <title key="The Decameron" ref="http://www.wikidata.org/entity/Q16438">Decameron</title>.</note> A female Job, Griselda stands obediently by
-						while her husband humiliates her, repudiates her—even when she believes he
-						murdered her children; her only concern is to meet his wants, however cruel
-						they seem to her. Now the love of one woman for another is strongly
-						de-emphasized—relief can only come from man—and man's worth is wholly
-						unquestioned, woman's soul seeming all the greater for his cruelty.</p>
-					<p>It was this ideal which began to flourish in the eighteenth century. Because
-						Protestantism had changed woman's role, transposing mystical values to the
-						domestic sphere, later centuries saw the revival of the martyrdom aesthetic
-						in a new light. Aestheticians since <persName key="Fichte, Johann Gottlieb" ref="http://www.wikidata.org/entity/Q21069038">Fichte</persName> had
-						taught that beauty was subjective—a manifestation of the beautiful soul—many
-						believing, with Muller, that the highest art was the art of life. <note type="scholarNote">For
-							a summary discussion of aesthetic theory from Baumgarten to Knight, see
-							<persName key="Leo Tolstoy" ref="http://www.wikidata.org/entity/Q7243">Leo Tolstoy’s</persName> <title><title key="What Is Art?" ref="http://www.wikidata.org/entity/Q4517325">What is
-									Art?</title> and Essays on Art</title>, trans. Alymer Maude
-							(London: Oxford University Press. 1930), pp. 92-110.</note> Now, soulful
-						woman could approach the sublime without ever<pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_021.jpg" n="21" xml:id="img_0021"/>leaving her immediate neighborhood, not to mention foregoing a trip to
-						heaven. Just as, classically, art was a lofty reflection of nature, the good
-						wife was a lofty reflection of man, so lofty in fact, that she ceased to
-						have substance altogether (a Dorsetshire
-						wedding ceremony likened her to a "a Mirrour which hath no image of its
-						own".) <note type="scholarNote">Quoted by Gwendolyn Bridges and Robert Utter in <title>Pamela’s
-								Daughters</title> (1963; rpt. New York: Russell and Russell, 1972),
-							p. 25.</note> A young girl (<emph>pupilla</emph>) was said to exist in
-						the pupil of every man's eye, and while this classically meant man's
-						perceptions were soulful, now it stood for another tenet: that woman should
-						only exist in the glazed eyes of man. <note type="scholarNote">For a description of this
-							etymology—so cloyingly written as to belie its true meaning—see Iwan
-							Bloch, <title>The Sexual Life of Our Time</title>, 6th ed., trans. M.
-							Eden Paul (London: Rebman Ltd., 1908), p. 78.</note> She was wife
-						only—merely a part of her husband's family, <emph>famulus</emph> meaning
-						servant or slave. As Fichte had also taught: "[Woman's] own dignity requires
-						that she should give herself up entirely as she is ... and should utterly
-						lose herself in [her husband]." <note type="scholarNote">"Fundamental Principles of the Rights
-							of Family," in <title key="The Science of Rights" ref="http://www.wikidata.org/entity/Q19098673">The Science of
-								Rights</title>, trans. A.E. Kroger (Philadelphia: J.B. Lippincott,
-							1869), p. 402.</note></p>
-					<p>Now Christ was absent. As with <persName key="Jane Eyre" ref="http://www.wikidata.org/entity/Q182961" type="fictional">Jane Eyre</persName> in the <title key="Jane Eyre" ref="http://www.wikidata.org/entity/Q182961" level="m">Bronte novel</title>, woman was to persist dutifully in soulful
-						devotion to a cynical master and, eventually, his contemplation of
-						her—distanced and mystical in her suffering goodness—might touch his soul
-						and effect his overt transformation. Just as Jane restored the blinded
-						Rochester’s vision, so could woman, like the highest art, elevate a
-						husband’s vision, turning cynic into believer, teaching and delighting. A
-						classical representation of beauty, she incited compassion and pity, if not
-						fear.</p>
-					<p>But such idealizations were fiction, pure fairy tale. Bronte’s Jane was, in
-						real life, de Sade’s Justine. A perpetual victim, she often suffered for men
-						who were unrelenting, unrepenting.</p>
-					<p>With religious executions a thing of the past and passionate martyrdom for
-						Christ wholly repugnant to the Protestant ethic, the clergy, who now found
-						marriage desirable, transferred the imagery of Jesus onto the husband with
-						new, if pedestrian, significance. The female martyr was now plunked down in
-						the family cottage where, virtuous and sexless, she suffered for her family.
-						There, mystical and beautiful, she persevered. Determined and powerless, she
-						persevered. <persName key="John Ruskin" ref="http://www.wikidata.org/entity/Q179126">John Ruskin</persName>’s
-						directive was typical: "[Woman must be] instinctively, infallibly wise—wise,
-						not for self-development, but for self-renunciation." <note type="scholarNote">"Of Queens'
-							Gardens," in <title>Sesame and Lilies: Three Lectures</title>, rev. and
-							enl. (New York: Metropolitan, 1871), p. 152.</note></p>
-					<p>In fact, she hadn’t much choice. The rise of capitalism had, by the
-						eighteenth century, aggravated woman's economic dependence while it banished
-						traditional duties from the home. Domestic spinning, weaving, brewing and
-						baking had once been essential and, however tedious, had used up time. Now,
-						with moral prohibitions still further diminishing woman’s activities,
-						idleness exposed the void. By romantically and utterly surrendering to
-						suffering, woman might become absorbed; life’s form might assume a grandiose
-						beauty, masking the pettiness of its content. As before, if woman could
-						exalt her suffering, she could shape it, perfect it; she could languish in
-						contemplation of her own sorrow. Formalized and ritualized, it aesthetically
-						formed and informed her life. And the aesthetic became an anaesthetic. For no
-						matter how sentient martyrdom’s manifestations, it numbed woman to her own
-						insignificance, protecting her from the more genuine pain of small emotions.
-						The niggling void became flushed with feeling, feeling believed to soften
-						and deepen the soul. Or so believed <persName key="Germaine de Staël" ref="http://www.wikidata.org/entity/Q123041">Madame de Stael</persName>,
-						whose exposition on suffering also credited the virtues of habitual
-						submisiveness. Her tract was written to justify suicide. No wonder.
-							<note type="scholarNote">"Reflexions sur le suicide," in <title>Ouvres de Madame la Baronne
-								de Stael-Holstein</title> (Paris: Chez Lefevre, 1858), vol. III, pp.
-							711-752.</note></p>
-					<p>Martyrdom was still an art: no longer for Jesus, no longer even for a
-						powerful man whose cruelty masked a beautiful soul. It was now martyrdom for
-						any man, be he a stern patriarch or a sodden drunk, or a stern patriarch and
-						a sodden drunk. As <persName key="Leo Tolstoy" ref="http://www.wikidata.org/entity/Q7243">Tolstoy</persName> saw it:
-						Wives should be loving, unobtrusive and unassuming—"comforters of the
-						drunken, the weak, and the dissolute." <note type="annotation">Tolstoy, p. 326</note> Or in
-						Fichte’s words: The wife of a degenerate husband "is held all the more in
-						esteem the gentler and wiser she bears it," though still, she must appear to
-						be "lost in the man of her choice." <note type="scholarNote">Fichte, pp. 424 and 441. Fichte
-							remarks (p. 441): "She has the <emph>power</emph> to withdraw her
-							freedom, if she could have the <emph>will</emph> to do so; but that is
-							the very point: she cannot rationally will to be free." In other words,
-							any woman who chooses freedom is necessarily irrational; thus, she
-							cannot sensibly assess her motives or use her freedom. It is curiously
-							circular reasoning.</note> Wet nurses to alcoholics, wives soaked their
-						men with spirit, and disappeared. </p>
-					<p> In 1920, in a perverse tribute to pained sensibility, Margaret-Mary
-							Alacoque was canonized. Her emblem was the Sacred Heart. It
-						was increasingly presented more and more bloodily—grotesque, fiery,
-						disembodied, now an isolate lump of throbbing muscle—the pulsing symbol of a
-						female aesthetic and the badge of hundreds of Catholic schools. The good
-						woman, it thumps, is all heart.</p>
-					<p>But its beat is getting ever weaker. Like the allure of habitual sacrifice
-						itself. Like the utter devotion (submission) for which it stands—one
-						passion, indivisible, with guilt and oppression for all. Woman’s fluid
-						acquiescence has leaked its glamour, and women are letting women know it. </p>
-					<p> Sacrifice is self-abuse. Death to martyrdom.</p>
+				<p>For the religious woman, who naturally <emph>believed</emph> her life worthless,
+					there were few alternatives. She could dumbly worship the saints or, if
+					ambitious enough, she could emulate them: <persName key="Simeon Stylites"
+						ref="http://www.wikidata.org/entity/Q310987">St. Simon Stylites</persName>
+					ate very little; <persName key="John of the Cross"
+						ref="http://www.wikidata.org/entity/Q190388" cert="low">St. John of the
+						Cross</persName> licked the sores of lepers. And while some women performed
+					no less austerely (<persName key="Rose of Lima"
+						ref="http://www.wikidata.org/entity/Q244383" cert="low">St. Rose</persName>
+					ate nothing but sheep’s gall, ashes and bitter herbs, and she drank the blood of
+					a sick patient), many—martyred through constant devotion and sacrifice—displayed
+					a peculiar brand of sensuality.</p>
+				<p><persName key="Veronica Giuliani" ref="http://www.wikidata.org/entity/Q239160"
+						cert="high">Veronica Guliani</persName>—who went to bed with, and kissed,
+					and suckled a lamb, the lamb being a symbol of Christ—is perhaps atypical. But
+					not <persName key="Mechthilde of Madgeburg"
+						ref="https://en.wikipedia.org/wiki/Mechthild_of_Magdeburg">Mechthilde of
+						Madgeburg</persName>, who preferred to see Jesus as "charming," affectionate
+					and 18 years old. Nor <persName key="Margaret of Ypres"
+						ref="http://www.wikidata.org/entity/Q42377953">Margaretha of
+						Ypern</persName>, who thought herself "engaged" to Jesus. Nor <persName
+						key="Christina Ebner" ref="http://www.wikidata.org/entity/Q70684">Christine
+						Ebner</persName>, who imagined she carried Jesus’ child. The church
+					deliberately inspired such sensuous imaginings. "Ever let the Bridegroom sport
+					with you within [your chamber]," <persName key="Jerome"
+						ref="http://www.wikidata.org/entity/Q44248">St. Jerome</persName> wrote to a
+					virgin. "When sleep falls on you, He will come beside the wall and will put his
+					hand through the hole in the door and will touch your belly ... " With nuns
+					"marrying" Christ in a formal ceremony—their "I love Christ into whose bed I
+					have entered" being roughly equivalent to the modern "I do"—it is not surprising
+					that, while most martyrs sought to transcend the body, female martyrdom at times
+					unveiled a complexion entirely its own. Pocked with the scars of lacerations and
+					burnings, flushed with desire for a polygamous, heterosexual Jesus, it
+					encouraged a centuries-long tradition of woman's self-sacrifice and suffering
+					for man. For only by cleaving to a seeming savior or holy man could a woman hope
+					to rise even a fraction as much as she had fallen.</p>
+				<p> Take the example of <persName key="Margaret Mary Alacoque"
+						ref="http://www.wikidata.org/entity/Q235853">Margaret-Mary
+						Alacoque</persName>, a particularly fervent practitioner. She shafted a
+					novice for rivaling her holiness, lest she rival her also in the Savior’s
+					affections. And while her frequent convulsions were probably due to
+					austerity—she drank mostly dirty wash-water, and drank nothing at all from
+					Thursday to Sunday (though she occasionally licked up vomit with her tongue)—she
+					was hotly feverish with love of Jesus, even tattooing his name on her chest with
+					a small knife. (When the scars healed, she burned in the insignia with a
+					candle.) Such actions were proof of a beautiful soul.</p>
+				<p>Suffering has long been a value in the west. An attribute of saints and a must
+					for martyrs, it has also lately been required of the artist, who, as <persName
+						key="Susan Sontag" ref="http://www.wikidata.org/entity/Q152824">Susan
+						Sontag</persName> aptly notes, now replaces the saint as exemplary sufferer.
+					And Sontag’s tenet, I think, can be reversed: the saint, or martyr, was a kind
+					of artist in earlier times. Aestheticians like <persName key="Jacques Maritain"
+						ref="http://www.wikidata.org/entity/Q45723">Jacques Maritain</persName>
+					would seem to agree, seeing art as "mak[ing] a form shine on the matter," form
+					being “the profound splendor of the soul shining through .. . the principle . .
+					. of pain and passion." Living in true perfection, he says, "may be
+					metaphorically described as an art . . . an art which only the saints master
+					fully." </p>
+				<p>Now, that Margaret-Mary wasn’t perfect is not important; it’s enough that the
+					church assures us she was. What is important is that she was an exemplary
+					sufferer if there ever was one. She suffered; she suffered wholly and
+					completely—and this gave her a decided advantage. For, notes Sontag, quoting
+					from the diary of a suffering artist, only through such total surrender can we
+					"disarm the power of suffering make it our own creation, our own choice." By
+					giving in to suffering, we mold it, reshape it. We sublimate suffering into
+					art.</p>
+				<p>That life and art can be one and the same is an old idea. <persName
+						key="John Dewey" ref="http://www.wikidata.org/entity/Q131805">John
+						Dewey</persName>  upheld it, defining art as any activity reshaping
+					experience more meaningfully, coherently and vividly than ordinary life allows.
+					"Emotion," he says, "is . . . the cementing force." By selecting and coloring,
+					it unifies the disparate events of experience, transforming them into
+						<emph>an</emph> experience. "The enemies of the aesthetic," says Dewey, "are
+					neither the practical or the intellectual. They are the hum-drum."</p>
+				<p>However repugnant Margaret-Mary’s actions may seem, by male aesthetic criteria
+					Margaret-Mary was an artist and her martyrdom was art. It dictated her every
+					action, and her every action was contrived to reflect a beautiful soul.
+					Martyrdom provided her with a form for her life, and through it she assumed
+					control over the fragmented matter of her existence. She indulged in suffering;
+					it engrossed her, diverted her, and thoroughly absorbed her. Pain became
+					objectified. Life became a passionate performance (indeed, her breast resembled
+					a theater marquee), soulful, dramatic cohesive, consistent and meaningful. By
+					classical definitions of art, her life, in assuming a magnitude and order,
+					fulfilled the conditions of the beautiful. In fact, martyrdom for Jesus, and
+					later secularized martyrdom for man, has been one of woman’s most pervasive and
+					enduring traditional art forms.</p>
+				<p>For Margaret-Mary was not alone in indulging in suffering; other women matched
+					her passion. <persName key="Christina Ebner"
+						ref="http://www.wikidata.org/entity/Q70684">Christine Ebner</persName>
+					etched out a cross on the skin of her chest and tore it off. <persName
+						key="Mary Magdalene dei Pazzi"
+						ref="https://en.wikipedia.org/wiki/Mary_Magdalene_de'_Pazzi">Mary Magdalene
+						dei Pazzi</persName> had herself cut, trampled, whipped and burned.
+					Christine of St. Trond had herself bound, hung, racked, buried and baked.
+					Surely, Christianity’s chapter on the martyrs and mystics is one of the most
+					astounding chapters in history. Less astounding, perhaps, are the women who,
+					like <persName key="Felicula" ref="http://www.wikidata.org/entity/Q299832"
+						>Felicula</persName> or <persName key="Agnes of Rome"
+						ref="http://www.wikidata.org/entity/Q210096">Saints Agnes</persName> and
+						<persName key="Agatha of Sicily"
+						ref="http://www.wikidata.org/entity/Q200895">Agatha</persName>, opted for
+					tortures over marriage. These women were saving themselves for Christ and
+					wouldn’t succumb. But there were also martyrs among those who did, like Therese,
+					a nineteenth century madwoman and would-be mystic whose longing for Christ drove
+					her insane until finally, distracted, demoralized and institutionalized, she
+					wrote: "Now I only believe in God and suffering. I feel it is necessary to get
+					married." Therese was deranged, but her resignation reflected a sordid truth:
+					for many who lived in later centuries, marriage itself had become yet another
+					form of martyrdom, supplying an aesthetic where none existed.</p>
+				<p>The altruistic female sacrificing for a husband was an old ideal. The
+					twelfth-century <persName key="Marie de France"
+						ref="http://www.wikidata.org/entity/Q5617">Marie de France</persName>
+					featured her in <title key="Eliduc"
+						ref="http://www.wikidata.org/entity/Q5360690">Eliduc</title> where a wife
+					graciously surrenders her husband to a woman he loves. Years later, she welcomes
+					the new wife into her convent where, sisters in Christ, the two women are bound
+					again by love for a single man, the husband and Christ being, metaphorically,
+					one and the same.</p>
+				<p>By the fourteenth century, with <persName key="Geoffrey Chaucer"
+						ref="http://www.wikidata.org/entity/Q5683">Chaucer's</persName> and
+						<persName key="Giovanni Boccaccio"
+						ref="http://www.wikidata.org/entity/Q1402">Boccaccio’s</persName> patient
+					Griselda, the emphasis had changed. A female Job, Griselda stands obediently by
+					while her husband humiliates her, repudiates her—even when she believes he
+					murdered her children; her only concern is to meet his wants, however cruel they
+					seem to her. Now the love of one woman for another is strongly
+					de-emphasized—relief can only come from man—and man's worth is wholly
+					unquestioned, woman's soul seeming all the greater for his cruelty.</p>
+				<p>It was this ideal which began to flourish in the eighteenth century. Because
+					Protestantism had changed woman's role, transposing mystical values to the
+					domestic sphere, later centuries saw the revival of the martyrdom aesthetic in a
+					new light. Aestheticians since <persName key="Fichte, Johann Gottlieb"
+						ref="http://www.wikidata.org/entity/Q21069038">Fichte</persName> had taught
+					that beauty was subjective—a manifestation of the beautiful soul—many believing,
+					with Muller, that the highest art was the art of life. Now, soulful woman could
+					approach the sublime without ever<pb
+						facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_021.jpg"
+						n="21" xml:id="img_0021"/>leaving her immediate neighborhood, not to mention
+					foregoing a trip to heaven. Just as, classically, art was a lofty reflection of
+					nature, the good wife was a lofty reflection of man, so lofty in fact, that she
+					ceased to have substance altogether (a Dorsetshire wedding ceremony likened her
+					to a "a Mirrour which hath no image of its own".) A young girl
+						(<emph>pupilla</emph>) was said to exist in the pupil of every man's eye,
+					and while this classically meant man's perceptions were soulful, now it stood
+					for another tenet: that woman should only exist in the glazed eyes of man. She
+					was wife only—merely a part of her husband's family, <emph>famulus</emph>
+					meaning servant or slave. As Fichte had also taught: "[Woman's] own dignity
+					requires that she should give herself up entirely as she is ... and should
+					utterly lose herself in [her husband]."</p>
+				<p>Now Christ was absent. As with <persName key="Jane Eyre"
+						ref="http://www.wikidata.org/entity/Q182961" type="fictional">Jane
+						Eyre</persName> in the <title key="Jane Eyre"
+						ref="http://www.wikidata.org/entity/Q182961" level="m">Bronte novel</title>,
+					woman was to persist dutifully in soulful devotion to a cynical master and,
+					eventually, his contemplation of her—distanced and mystical in her suffering
+					goodness—might touch his soul and effect his overt transformation. Just as Jane
+					restored the blinded Rochester’s vision, so could woman, like the highest art,
+					elevate a husband’s vision, turning cynic into believer, teaching and
+					delighting. A classical representation of beauty, she incited compassion and
+					pity, if not fear.</p>
+				<p>But such idealizations were fiction, pure fairy tale. Bronte’s Jane was, in real
+					life, de Sade’s Justine. A perpetual victim, she often suffered for men who were
+					unrelenting, unrepenting.</p>
+				<p>With religious executions a thing of the past and passionate martyrdom for Christ
+					wholly repugnant to the Protestant ethic, the clergy, who now found marriage
+					desirable, transferred the imagery of Jesus onto the husband with new, if
+					pedestrian, significance. The female martyr was now plunked down in the family
+					cottage where, virtuous and sexless, she suffered for her family. There,
+					mystical and beautiful, she persevered. Determined and powerless, she
+					persevered. <persName key="John Ruskin"
+						ref="http://www.wikidata.org/entity/Q179126">John Ruskin</persName>’s
+					directive was typical: "[Woman must be] instinctively, infallibly wise—wise, not
+					for self-development, but for self-renunciation."</p>
+				<p>In fact, she hadn’t much choice. The rise of capitalism had, by the eighteenth
+					century, aggravated woman's economic dependence while it banished traditional
+					duties from the home. Domestic spinning, weaving, brewing and baking had once
+					been essential and, however tedious, had used up time. Now, with moral
+					prohibitions still further diminishing woman’s activities, idleness exposed the
+					void. By romantically and utterly surrendering to suffering, woman might become
+					absorbed; life’s form might assume a grandiose beauty, masking the pettiness of
+					its content. As before, if woman could exalt her suffering, she could shape it,
+					perfect it; she could languish in contemplation of her own sorrow. Formalized
+					and ritualized, it aesthetically formed and informed her life. And the aesthetic
+					became an anaesthetic. For no matter how sentient martyrdom’s manifestations, it
+					numbed woman to her own insignificance, protecting her from the more genuine
+					pain of small emotions. The niggling void became flushed with feeling, feeling
+					believed to soften and deepen the soul. Or so believed <persName
+						key="Germaine de Staël" ref="http://www.wikidata.org/entity/Q123041">Madame
+						de Stael</persName>, whose exposition on suffering also credited the virtues
+					of habitual submisiveness. Her tract was written to justify suicide. No wonder. </p>
+				<p>Martyrdom was still an art: no longer for Jesus, no longer even for a powerful
+					man whose cruelty masked a beautiful soul. It was now martyrdom for any man, be
+					he a stern patriarch or a sodden drunk, or a stern patriarch and a sodden drunk.
+					As <persName key="Leo Tolstoy" ref="http://www.wikidata.org/entity/Q7243"
+						>Tolstoy</persName> saw it: Wives should be loving, unobtrusive and
+					unassuming—"comforters of the drunken, the weak, and the dissolute." Or in
+					Fichte’s words: The wife of a degenerate husband "is held all the more in esteem
+					the gentler and wiser she bears it," though still, she must appear to be "lost
+					in the man of her choice." Wet nurses to alcoholics, wives soaked their men with
+					spirit, and disappeared. </p>
+				<p> In 1920, in a perverse tribute to pained sensibility, Margaret-Mary Alacoque was
+					canonized. Her emblem was the Sacred Heart. It was increasingly presented more
+					and more bloodily—grotesque, fiery, disembodied, now an isolate lump of
+					throbbing muscle—the pulsing symbol of a female aesthetic and the badge of
+					hundreds of Catholic schools. The good woman, it thumps, is all heart.</p>
+				<p>But its beat is getting ever weaker. Like the allure of habitual sacrifice
+					itself. Like the utter devotion (submission) for which it stands—one passion,
+					indivisible, with guilt and oppression for all. Woman’s fluid acquiescence has
+					leaked its glamour, and women are letting women know it. </p>
+				<p> Sacrifice is self-abuse. Death to martyrdom.</p>
 			</div>
 		</body>
 		<back>

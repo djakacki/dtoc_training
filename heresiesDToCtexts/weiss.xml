@@ -119,10 +119,21 @@
 				</biblStruct>
 			</sourceDesc>
 		</fileDesc>
-		
-	<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+				xmlns:as="http://www.w3.org/ns/activitystreams#"
+				xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/"
+				xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#"
+				xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+				xmlns:fabio="https://purl.org/spar/fabio#"
+				xmlns:bf="http://www.openlinksw.com/schemas/bif#"
+				xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#"
+				xmlns:org="http://www.w3.org/ns/org#">
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -197,10 +208,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -275,10 +284,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -353,10 +360,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -431,10 +436,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -509,10 +512,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -587,10 +588,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -665,10 +664,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -744,10 +741,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -823,10 +818,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -902,10 +895,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -981,10 +972,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1059,10 +1048,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1137,10 +1124,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1216,10 +1201,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1294,10 +1277,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1372,10 +1353,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1450,10 +1429,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1528,10 +1505,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1606,10 +1581,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1685,10 +1658,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1764,10 +1735,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1843,10 +1812,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1921,10 +1888,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1999,10 +1964,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2077,10 +2040,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2155,10 +2116,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2234,10 +2193,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2312,10 +2269,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2391,10 +2346,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2470,10 +2423,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2549,10 +2500,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2628,10 +2577,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2706,10 +2653,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2784,10 +2729,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2862,10 +2805,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2940,10 +2881,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3018,10 +2957,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3096,10 +3033,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3174,10 +3109,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3252,10 +3185,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3330,10 +3261,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3409,10 +3338,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3488,10 +3415,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3567,10 +3492,8 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3646,79 +3569,87 @@
 		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
-        </rdf:Description>
-      </rdf:RDF></xenoData></teiHeader>
+				</rdf:Description>
+			</rdf:RDF></xenoData>
+	</teiHeader>
 	<text>
 		<body>
-			<div cert="high" org="composite" part="Y" sample="initial" xml:space="default" type="essay">
-				<!-- captured -->
-				<pb cert="high" facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_055.jpg" xml:space="default" n="52" xml:id="img_0055"/>
+			<div cert="high" org="composite" part="Y" sample="initial" xml:space="default"
+				type="essay">
+				<pb cert="high"
+					facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_055.jpg"
+					xml:space="default" n="52" xml:id="img_0055"/>
 				<head>
-					<title>Adelaide Alsop Robineau: Ceramicist from Syracuse</title></head>
+					<title type="essay">Adelaide Alsop Robineau: Ceramicist from Syracuse</title></head>
 				<byline><persName key="Peg Weiss" ref="http://www.wikidata.org/entity/Q59532618">Peg
 						Weiss</persName></byline>
 				<p>
-					<persName key="Adelaide Alsop Robineau" ref="http://www.wikidata.org/entity/Q4681845">Adelaide Alsop
+					<persName key="Adelaide Alsop Robineau"
+						ref="http://www.wikidata.org/entity/Q4681845">Adelaide Alsop
 						Robineau</persName> (1865-1929) who worked and lived most of her life in
-						<placeName key="Syracuse" ref="http://www.wikidata.org/entity/Q128069">Syracuse, New York</placeName>, was one of the foremost ceramists of her
+						<placeName key="Syracuse" ref="http://www.wikidata.org/entity/Q128069"
+						>Syracuse, New York</placeName>, was one of the foremost ceramists of her
 					time and is today regarded by many as America's greatest ceramist. She was a
 					perfectionist: in 25 years of continued creativity she produced only 600 works
-					which she deemed worthy of survival. <note n="1" type="scholarNote">According to her husband’s
-						recollection, "All the unsatisfactory pieces were reglazed and refired until
-						they came out good or (were) entirely spoiled." (Samuel E. Robineau,
-						“Adelaide Alsop Robineau, <title cert="high" level="j" xml:space="default">Design XXX</title>, no. 11 [April, 1929], p.
-						205.)</note> Nearly every known piece is a superior example of its type,
+					which she deemed worthy of survival. Nearly every known piece is a superior example of its type,
 					whether it be the <lang>grand feu</lang> (high-fire) porcelain at which she
 					excelled or stoneware; crystalline glaze or flammé; excised or pierced egg
 					shell.</p>
-				<p>Born in <placeName key="Middletown" ref="http://www.wikidata.org/entity/Q49192">Middletown, Connecticut</placeName>, the daughter of an engineer and
+				<p>Born in <placeName key="Middletown" ref="http://www.wikidata.org/entity/Q49192"
+						>Middletown, Connecticut</placeName>, the daughter of an engineer and
 					inventor, Adelaide Alsop was artistically talented and determined to be
 					self-supporting. She first turned to the decoration of porcelain, teaching
 					herself the technique from books. She was soon proficient enough to become a
 					teacher of porcelain painting, a career she pursued for several years at
-						<orgName key="Saint Mary's Hall (Faribault, Minn.)" ref="http://viaf.org/viaf/132583895/">St. Mary's Hall school</orgName> in
+						<orgName key="Saint Mary's Hall (Faribault, Minn.)"
+						ref="http://viaf.org/viaf/132583895/">St. Mary's Hall school</orgName> in
 					Minnesota. In the early 1890s she returned to New York where she studied
-					painting briefly with <persName key="William Merritt Chase" ref="http://www.wikidata.org/entity/Q265820">William Merritt
+					painting briefly with <persName key="William Merritt Chase"
+						ref="http://www.wikidata.org/entity/Q265820">William Merritt
 						Chase</persName>, still supporting herself as a china decorator.</p>
-				<p>At 34, she married <persName key="Samuel E. Robineau" ref="http://www.wikidata.org/entity/Q113455568">Samuel Robineau</persName>
+				<p>At 34, she married <persName key="Samuel E. Robineau"
+						ref="http://www.wikidata.org/entity/Q113455568">Samuel Robineau</persName>
 					whom she had met in the Midwest. They joined <persName>G. H. Clark</persName> in
-					Syracuse to found and publish <title key="Keramic Studio" ref="http://www.wikidata.org/entity/Q66380284" level="j">Keramic
-						Studio</title> with Adelaide Robineau as editor. The new porcelain
-					painters' magazine soon dominated the field. A typical issue might include
-					descriptions of new materials and techniques, an art historical article on
-					Chinese porcelain painting and Robineau's own designs and writings.
-						<emph>Keramic Studio</emph> complemented another nationally known magazine
-					published in the Syracuse area, <title key="The Craftsman" ref="http://www.wikidata.org/entity/Q7727939" level="j">The
-						Craftsman</title>. Edited by <persName key="Gustav Stickley" ref="http://www.wikidata.org/entity/Q5621226">Gustave Stickley</persName>,
+					Syracuse to found and publish <title key="Keramic Studio"
+						ref="http://www.wikidata.org/entity/Q66380284" level="j">Keramic
+						Studio</title> with Adelaide Robineau as editor. The new porcelain painters'
+					magazine soon dominated the field. A typical issue might include descriptions of
+					new materials and techniques, an art historical article on Chinese porcelain
+					painting and Robineau's own designs and writings. <emph>Keramic Studio</emph>
+					complemented another nationally known magazine published in the Syracuse area,
+						<title key="The Craftsman" ref="http://www.wikidata.org/entity/Q7727939"
+						level="j">The Craftsman</title>. Edited by <persName key="Gustav Stickley"
+						ref="http://www.wikidata.org/entity/Q5621226">Gustave Stickley</persName>,
 					creator of "Mission" furniture, it promoted the ideals of the international arts
-					and crafts movement inherited from <persName key="William Morris" ref="http://www.wikidata.org/entity/Q182589">William Morris</persName>. The
+					and crafts movement inherited from <persName key="William Morris"
+						ref="http://www.wikidata.org/entity/Q182589">William Morris</persName>. The
 					magazines were extremely influential to the development and flourishing of the
 					American arts and crafts movement, achieving national circulation in a short
 					time.</p>
 				<p>In 1903, Samuel Robineau translated and published in <emph>Keramic Studio</emph>
-					a series of articles by <persName key="Taxile Doat" ref="http://www.wikidata.org/entity/Q3516402">Taxile Doat</persName>, the
-					Sevres master, on the making of <lang>grand feu</lang> porcelain. <note n="2" type="scholarNote">The essays by Doat were later published in book form as <title cert="high" level="m" xml:space="default">Grand Feu
-						Ceramics</title> (Syracuse, N.Y.: Keramic Studio Publishing Co., 1905).</note> Adelaide
-					Robineau had longed to create new forms and inspired by these articles she went
-					to study with <persName key="Charles Fergus Binns" ref="http://www.wikidata.org/entity/Q5077627">Charles Binns</persName> at the pottery school in
-						<placeName key="Alfred" ref="http://www.wikidata.org/entity/Q4722174">Alfred, New York</placeName>. She then set up her own kiln at home and
-					fired her first batch of porcelains, with her husband serving as her advisor and
-					technician. She experimented alone, however, with different clay bodies and
-					developed a remarkable range of glazes, fixed and flowing, crystalline and
-					matte, for which she is famous. <note n="3" type="scholarNote">The distinction between Adelaide's creative work in inventing forms, glazes
-						and decorations and in making the actual pieces, and Samuel’s advisory role as
-						firing technician has been underscored by their daughter, Mrs. Elizabeth
-						Lineaweaver, in a recent interview with the author.</note> She also experimented endlessly to adjust
-					Doat's formulas to her own materials and discovered a special variety of Texas
-					kaolin that lent itself to her requirements of translucency and strength.</p>
+					a series of articles by <persName key="Taxile Doat"
+						ref="http://www.wikidata.org/entity/Q3516402">Taxile Doat</persName>, the
+					Sevres master, on the making of <lang>grand feu</lang> porcelain. Adelaide Robineau had longed to create new forms and inspired
+					by these articles she went to study with <persName key="Charles Fergus Binns"
+						ref="http://www.wikidata.org/entity/Q5077627">Charles Binns</persName> at
+					the pottery school in <placeName key="Alfred"
+						ref="http://www.wikidata.org/entity/Q4722174">Alfred, New York</placeName>.
+					She then set up her own kiln at home and fired her first batch of porcelains,
+					with her husband serving as her advisor and technician. She experimented alone,
+					however, with different clay bodies and developed a remarkable range of glazes,
+					fixed and flowing, crystalline and matte, for which she is famous. She also experimented endlessly to adjust Doat's formulas to
+					her own materials and discovered a special variety of Texas kaolin that lent
+					itself to her requirements of translucency and strength.</p>
 				<p>In 1903-1904, the Robineaus built a house and separate studio on a hillside
-					overlooking Syracuse which Adelaide designed with an architect friend, <persName key="Katharine Budd" ref="http://dbpedia.org/resource/Katharine_Budd">Katharine Budd</persName>. The studio building consisted of three
-					stories: the kiln area on the first floor, the pottery on the second and a
-					playroom for the three Robineau children on the third. Having the children
-					nearby while mother pursued her profession was considered drastically "modern"
-					when the Robineau home was featured in <title key="American homes and gardens" ref="http://www.wikidata.org/entity/Q51439744" level="j">American Homes and
-							Gardens</title> in 1910. <note n="4" type="scholarNote"><persName key="Grace Wickham Curran" ref="http://www.wikidata.org/entity/Q18544967" type="real">Grace Wickham Curran</persName>, "An American Potter, her Home and Studio," <emph>American Homes and Gardens</emph> (Sept., 1910), pp. 364-366.</note> The buildings still stand on Robineau
-					Road in Syracuse.</p>
+					overlooking Syracuse which Adelaide designed with an architect friend, <persName
+						key="Katharine Budd" ref="http://dbpedia.org/resource/Katharine_Budd"
+						>Katharine Budd</persName>. The studio building consisted of three stories:
+					the kiln area on the first floor, the pottery on the second and a playroom for
+					the three Robineau children on the third. Having the children nearby while
+					mother pursued her profession was considered drastically "modern" when the
+					Robineau home was featured in <title key="American homes and gardens"
+						ref="http://www.wikidata.org/entity/Q51439744" level="j">American Homes and
+						Gardens</title> in 1910. The buildings still stand on Robineau Road in Syracuse.</p>
 				<p> Adelaide Robineau's brilliant experiments included the oxblood flammé of Chinese
 					tradition, crystalline glazes in blue, white and maize, crackles and inlaid slip
 					designs. She undertook a challenge most of her contemporaries thought was
@@ -3726,36 +3657,42 @@
 					excised designs. Because the paper-thin porcelain clay is so brittle, it can
 					only be worked in the dry state and carving it requires extraordinary patience
 					and delicacy. Of her 12 attempts at eggshell pieces, only three survived. The
-					third, with "a beautiful, excised design of swans," was broken in <placeName key="Detroit" ref="http://www.wikidata.org/entity/Q12439">Detroit</placeName> on its way to an exhibition.</p>
-				<p>In 1910 Robineau was invited by <persName key="Edward Gardner Lewis" ref="http://www.wikidata.org/entity/Q5343065">Edward G. Lewis</persName>,
-					founder of the <orgName key="American Woman's League" ref="http://www.wikidata.org/entity/Q25060561">American Women's League</orgName>, to teach at University City Pottery at
-						<placeName key="St. Louis" ref="http://www.wikidata.org/entity/Q38022">St.
-						Louis, Missouri</placeName>, and to work there with Taxile Doat. According
-					to <persName key="Evans, Paul, 1937-" ref="http://viaf.org/viaf/8928920/">Paul Evans</persName>, "for a short time the University City
-					Pottery had the most notable group of ceramic artists and experts thus far
-					associated with an institution in this country." <note n="5" type="scholarNote">Paul Evans, <title cert="high" level="m" xml:space="default">Art Pottery of the United States, an Encyclopedia of
-						Producers and their Marks</title> (New York: Charles Scribners Sons, 1974),
-						pp. 243-247. The American Women’s League, founded in 1907 to provide "wider
-						opportunity for American women," sponsored correspondence courses and invited
-						talented women to study under the personal instruction of the staff. The Women's
-						League failed financially in 1911 and the Robineaus returned to Syracuse.</note> While there the Robineaus
-					founded another magazine, <emph><title level="j">Palette and Bench</title></emph>, under Lewis's sponsorship.</p>
+					third, with "a beautiful, excised design of swans," was broken in <placeName
+						key="Detroit" ref="http://www.wikidata.org/entity/Q12439"
+						>Detroit</placeName> on its way to an exhibition.</p>
+				<p>In 1910 Robineau was invited by <persName key="Edward Gardner Lewis"
+						ref="http://www.wikidata.org/entity/Q5343065">Edward G. Lewis</persName>,
+					founder of the <orgName key="American Woman's League"
+						ref="http://www.wikidata.org/entity/Q25060561">American Women's
+						League</orgName>, to teach at University City Pottery at <placeName
+						key="St. Louis" ref="http://www.wikidata.org/entity/Q38022">St. Louis,
+						Missouri</placeName>, and to work there with Taxile Doat. According to
+						<persName key="Evans, Paul, 1937-" ref="http://viaf.org/viaf/8928920/">Paul
+						Evans</persName>, "for a short time the University City Pottery had the most
+					notable group of ceramic artists and experts thus far associated with an
+					institution in this country." While there the
+					Robineaus founded another magazine, <emph><title level="j">Palette and
+							Bench</title></emph>, under Lewis's sponsorship.</p>
 				<p>It was also in St. Louis that Robineau created the magnificent "Scarab Vase"
 					which won a grand prize at the 1910 Turin International Exposition. It required
-					1,000 hours of labor and two firings. Also called "The Apotheosis of the Toiler," the vase is decorated with an excised design of scarabs, a symbolic
+					1,000 hours of labor and two firings. Also called "The Apotheosis of the
+					Toiler," the vase is decorated with an excised design of scarabs, a symbolic
 					reference to the patience and skill demanded of the craftswoman. It is of
 					translucent porcelain with an unglazed background and a relief design in a
 					semi-opaque white glaze. Accents in pale blue-green are achieved with a thin,
-					fixed, semi-opaque copper glaze. <note n="6" type="scholarNote">Described in detail by Adelaide Alsop Robineau in an article on "American Pottery," <title key="The Art World" ref="http://www.wikidata.org/entity/Q53952741" level="j">The Art World</title>, III (Nov., 1917), pp. 153-155.</note></p>
+					fixed, semi-opaque copper glaze.</p>
 				<p>In the "Poppy Vase" of 1910, Robineau expressed a personal style that the
-					influential New York critic, <persName key="Royal Cortissoz" ref="http://www.wikidata.org/entity/Q7374075">Royal Cortissoz</persName>,
+					influential New York critic, <persName key="Royal Cortissoz"
+						ref="http://www.wikidata.org/entity/Q7374075">Royal Cortissoz</persName>,
 					later called "a blending of precious qualities—of knowledge, skill, judgement,
-					taste, and above all, the sense of beauty." <note n="7" type="scholarNote">Royal Cortissoz, <title key="New York Herald Tribune" ref="http://www.wikidata.org/entity/Q532494" level="j">New York Herald-Tribune</title> (Feb. 24, 1929).</note> This vase, 6¼ inches high, is
-					decorated with an exquisite poppy and leaf design which was first excised and
-					then inlaid with colored</p>
+					taste, and above all, the sense of beauty." This vase, 6¼ inches
+					high, is decorated with an exquisite poppy and leaf design which was first
+					excised and then inlaid with colored</p>
 
 
-				<pb cert="high" facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_056.jpg" xml:space="default" n="53" xml:id="img_0056"/>
+				<pb cert="high"
+					facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_056.jpg"
+					xml:space="default" n="53" xml:id="img_0056"/>
 				<p> slips. In the firing, the glazes remained perfectly set within the inlay,
 					coloring and hardening to produce the effect of a transparent enamel over the
 					whole. Small as it is, the vase has a monumental quality typical of Robineau's
@@ -3772,8 +3709,10 @@
 					elegant adaptations of Art Nouveau or arts and crafts movement taste to the
 					orientalizing manner of the eggshell "coupes" to Art Deco urns.</p>
 				<p> Her work was so specialized and technically difficult that Robineau could not
-					expect great monetary rewards. Whereas <persName key="Louis Comfort Tiffany" ref="http://www.wikidata.org/entity/Q312950">Louis Comfort
-						Tiffany</persName> in New York and <persName key="Lalique" ref="http://www.wikidata.org/entity/Q2406369">Lalique</persName> in France
+					expect great monetary rewards. Whereas <persName key="Louis Comfort Tiffany"
+						ref="http://www.wikidata.org/entity/Q312950">Louis Comfort
+						Tiffany</persName> in New York and <persName key="Lalique"
+						ref="http://www.wikidata.org/entity/Q2406369">Lalique</persName> in France
 					employed many workers and turned out multiple versions of their patterns,
 					Robineau's creations were unique. Once in an attempt to increase her income, she
 					tried to mass-produce porcelain doorknobs, but the endless repetition so
@@ -3781,16 +3720,19 @@
 					began.</p>
 				<p>Nevertheless, she was richly rewarded by professional recognition during her
 					lifetime. Her work was introduced to the public at the 1904 St. Louis Exposition
-					and in 1905 Tiffany and Co.
-					became an agent for the Robineau porcelains. <note n="8" type="scholarNote">See Paul Evans, also “Robineau Porcelains," Tiffany &amp; Co., Agents, Fifth
-						Avenue, New York (undated catalog, ca. 1907).</note> She was selected to exhibit at the
-						<placeName key="Musée des Arts décoratifs" ref="http://www.wikidata.org/entity/Q1319378">Musee des Arts
-						Décoratifs</placeName> and at the Paris Salon in 1911,
-					was awarded Grand Prize at the 1915 San Francisco
-					Exposition, and received special prizes and awards from the <orgName key="Art Institute of Chicago" ref="http://www.wikidata.org/entity/Q239303">Art Institute of Chicago</orgName> and the societies of arts and crafts in
-					Detroit and Boston. She received an honorary Doctor of Ceramic Science
-					degree from <orgName key="Syracuse University" ref="http://www.wikidata.org/entity/Q617433">Syracuse University</orgName>
-					in 1917 and in 1920 she joined the faculty. <orgName key="Metropolitan Museum of Art" ref="http://www.wikidata.org/entity/Q160236">The Metropolitan
+					and in 1905 Tiffany and Co. became an agent for the Robineau porcelains. She was selected to exhibit at the <placeName
+						key="Musée des Arts décoratifs"
+						ref="http://www.wikidata.org/entity/Q1319378">Musee des Arts
+						Décoratifs</placeName> and at the Paris Salon in 1911, was awarded Grand
+					Prize at the 1915 San Francisco Exposition, and received special prizes and
+					awards from the <orgName key="Art Institute of Chicago"
+						ref="http://www.wikidata.org/entity/Q239303">Art Institute of
+						Chicago</orgName> and the societies of arts and crafts in Detroit and
+					Boston. She received an honorary Doctor of Ceramic Science degree from <orgName
+						key="Syracuse University" ref="http://www.wikidata.org/entity/Q617433"
+						>Syracuse University</orgName> in 1917 and in 1920 she joined the faculty.
+						<orgName key="Metropolitan Museum of Art"
+						ref="http://www.wikidata.org/entity/Q160236">The Metropolitan
 						Museum</orgName> mounted an unusual one-person memorial exhibition of her
 					work.</p>
 				<p>According to Samuel Robineau's accounting, she earned only about $10,000 from the
@@ -3825,13 +3767,8 @@
 						townswoman the only individual maker of art porcelain in this country, one
 						of the few—the very few in the world and the only woman to attain such
 						prominence in ceramics. All of which sounds very conceited from me but which
-						is true nevertheless...</emph> <note n="9" type="scholarNote">Letter dated November 12, 1915, from Adelaide Alsop Robineau to Fernando
-							Carter (punctuation and italics follow the original), in the archives of the
-							Everson Museum of Art, Syracuse, N.Y. Present plans for the Everson’s Robineau
-							Collection include an exhibition of the complete collection in a new
-							installation to be accompanied by a major catalog in 1979, the 75th anniversary
-							of the introductior of Robineau’s work to the public at the 1904 St. Louis
-							Exposition.</note></quote>
+						is true nevertheless...</emph>
+					</quote>
 				<p>Clearly, Robineau was not one to be easily deterred. Her tenacity and confidence
 					in her craft was further shown in an article she wrote for <emph>The Art
 						World</emph> in 1917:</p>
@@ -3843,9 +3780,12 @@
 						entirely to my porcelains. The pieces I have produced are few in number, but
 						they represent in design and shape the best that was in me and I hope that
 						some of them may be an inspiration to some artist of the future, who perhaps
-						will be able to do more and better work than I have done.</emph> <note n="10" type="scholarNote">Adelaide Alsop Robineau, "American Pottery," p. 155.</note></quote>
+						will be able to do more and better work than I have done.</emph>
+					</quote>
 				<p> Adelaide Alsop Robineau need not have been so modest. Just as she predicted,
-					Syracuse does consider her work one of its "glories." The <orgName key="Everson Museum of Art" ref="http://www.wikidata.org/entity/Q5417350">Everson Museum</orgName> still celebrates her memory in its regular
+					Syracuse does consider her work one of its "glories." The <orgName
+						key="Everson Museum of Art" ref="http://www.wikidata.org/entity/Q5417350"
+						>Everson Museum</orgName> still celebrates her memory in its regular
 					Ceramics Exhibitions, inaugurated in her honor in 1932. Nearly half a century
 					after her death she is admired by aspiring artists who covet the perfection of
 					the "Poppy Vase" or "The Viking Ship," or one of the unnamed but brilliant
@@ -3854,9 +3794,8 @@
 			</div>
 		</body>
 		<back>
-			<p>Peg Weiss is Curator of Collections at the Everson Museum of Art,
-				Syracuse, New York, and Adjunct Professor in Art History at Syracuse
-				University.</p>
+			<p>Peg Weiss is Curator of Collections at the Everson Museum of Art, Syracuse, New York,
+				and Adjunct Professor in Art History at Syracuse University.</p>
 		</back>
 	</text>
 </TEI>
