@@ -4374,7 +4374,7 @@
 				<byline><persName key="Silvia Bovenschen"
 						ref="http://www.wikidata.org/entity/Q2286675" cert="high" role="aut"
 						type="real">Silvia Bovenschen</persName></byline>			
-			<div>
+			
 				<q cert="high" rend="display" type="spoken" xml:space="default"> This article was
 					first published in German in <title key="Ästhetik &amp; Kommunikation"
 						ref="http://www.wikidata.org/entity/Q256852">Aesthetik und
@@ -4387,7 +4387,6 @@
 					to reprint has been granted by the Editors of New German Critique, University of
 					Wisconsin- Milwaukee. German Department, P.O. Box 413, Milwaukee, Wis. 53201.
 				</q>
-			</div>
 
 			<div>
 				<head>Old and new appraisals of women's artistic production</head>
