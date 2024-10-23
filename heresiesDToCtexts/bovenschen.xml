@@ -4373,8 +4373,7 @@
 				<head><title>Is There a Feminine Aesthetic?</title></head>
 				<byline><persName key="Silvia Bovenschen"
 						ref="http://www.wikidata.org/entity/Q2286675" cert="high" role="aut"
-						type="real">Silvia Bovenschen</persName></byline>
-			</div>
+						type="real">Silvia Bovenschen</persName></byline>			
 			<div>
 				<q cert="high" rend="display" type="spoken" xml:space="default"> This article was
 					first published in German in <title key="Ästhetik &amp; Kommunikation"
@@ -4820,6 +4819,7 @@
 					anymore. They work on canvas, they make films and videotapes, they write and
 					sculpt, they work with metal and with fabric, they are on stage. So let us take
 					a look at what they are doing. </p>
+			</div>
 			</div>
 		</body>
 		<back>
