@@ -1937,6 +1937,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/Russ_Heresies/russ_women.xml?title_annotation_20241024114132686",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-10-24T15:41:32.686Z",
+	"dcterms:modified": "2024-10-24T15:41:32.686Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/djakacki",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/Russ_Heresies/russ_women.xml?title_annotation_20241024114132686#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/Russ_Heresies/russ_women.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/Russ_Heresies/russ_women.xml?title_annotation_20241024114132686#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[2]/p/title"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "bf:Title",
+		"@id": "http://www.wikidata.org/entity/Q462373",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
@@ -1974,7 +2053,7 @@
 						Schreiner</persName>, growing up on the veldt,
 					wrote one book, married happily, and never wrote another. <persName key="Kate Chopin" ref="http://www.wikidata.org/entity/Q230476" cert="high" role="aut" type="real">Kate Chopin</persName> wrote a scandalous book and
 					never wrote another. (Jean has written nothing.) There was <persName key="Mary Wollstonecraft" ref="http://www.wikidata.org/entity/Q101638" role="aut">M-ry Sh-Il-y</persName> who wrote you know what and <persName key="Charlotte Perkins Gilman" ref="http://www.wikidata.org/entity/Q287752" cert="high" role="aut" type="real">Ch-rl-tt- P-rk-ns G-Im-n</persName>, who
-					wrote one superb horror story and lots of sludge (was it sludge?), and <persName key="Phillis Wheatley" ref="http://www.wikidata.org/entity/Q257911" role="aut">Ph-Il-s Wh--tl-y</persName> who was black and wrote
+					wrote one <title key="The Yellow Wall Paper" ref="http://www.wikidata.org/entity/Q462373" level="m">superb horror story</title> and lots of sludge (was it sludge?), and <persName key="Phillis Wheatley" ref="http://www.wikidata.org/entity/Q257911" role="aut">Ph-Il-s Wh--tl-y</persName> who was black and wrote
 					eighteenth-century odes (but it was the eighteenth century) and Mrs. <persName key="Ann Radcliffe" ref="http://www.wikidata.org/entity/Q231944" cert="high" role="aut" type="real">-nn R-dcl-ff-</persName> who wrote silly novels and
 						<persName key="Margaret Cavendish, Duchess of Newcastle-upon-Tyne" ref="http://www.wikidata.org/entity/Q242640" role="aut">M-rg-r-t
 						C-v-nd-sh</persName> and <persName key="E. D. E. N. Southworth" ref="http://www.wikidata.org/entity/Q447019">Mrs.-d-n S--thw-rth</persName>
