@@ -2031,8 +2031,8 @@
                     <!-- <lb type="tln" n="302"/> --><sp who="#emdH8_M_brandon"><speaker>Brandon</speaker>
                         <l>Here is a warrant from</l>
                             <!-- <lb type="tln" n="303"/> --><l>The king, t’attach <persName key="Henry Pole, 1st Baron Montagu" ref="http://www.wikidata.org/entity/Q5727081" cert="medium">Lord Montague</persName> and the Bodies</l>
-                            <!-- <lb type="tln" n="304"/> --><l>Of the duke’s confessor, John de la Car,</l>
-                            <!-- <lb type="tln" n="305"/> --><l>One Gilbert Peck, his chancellor.</l></sp>
+                            <!-- <lb type="tln" n="304"/> --><l>Of the duke’s confessor, <persName>John de la Car</persName>,</l>
+                            <!-- <lb type="tln" n="305"/> --><l>One <persName>Gilbert Peck</persName>, his chancellor.</l></sp>
                     
                     <!-- <lb type="tln" n="306"/> --><sp who="#emdH8_M_buckingham"><speaker>Buckingham</speaker>
                         <l>So, so;</l>
