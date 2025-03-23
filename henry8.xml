@@ -2595,7 +2595,7 @@
                     
                     <!-- <lb type="tln" n="357"/> --><sp who="#emdH8_M_norfolk"><speaker>Norfolk</speaker>
                         <l>Not almost appears,</l>
-                            <!-- <lb type="tln" n="358"/> --><l>It doth appear; for, upon these taxations,</l>
+                            <!-- <lb type="tln" n="358"/> --><l>It doth appear; for, upon <eventName key="Amicable Grant" ref="https://www.wikidata.org/wiki/Q4746122">these taxations</eventName>,</l>
                             <!-- <lb type="tln" n="359"/> --><l>The clothiers all, not able to maintain</l>
                             <!-- <lb type="tln" n="360"/> --><l>The many to them longing, have put off</l>
                             <!-- <lb type="tln" n="361"/> --><l>The spinsters, carders, fullers, weavers who,</l>
