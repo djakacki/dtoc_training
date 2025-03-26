@@ -4089,6 +4089,86 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?person_annotation_20250326183647565",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-03-26T22:36:47.565Z",
+	"dcterms:modified": "2025-03-26T22:36:47.565Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/djakacki",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?person_annotation_20250326183647565#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?person_annotation_20250326183647565#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[3]/div/sp[40]/l[8]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q222941",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:medium"
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><profileDesc>
             <particDesc>
                 <listPerson>                    
@@ -5981,9 +6061,9 @@
                             <!-- <lb type="tln" n="1008"/> --><l>Fresher thqn e’er it was, and held for certain</l>
                             <!-- <lb type="tln" n="1009"/> --><l>The King will venture at it. Either the cardinal,</l>
                             <!-- <lb type="tln" n="1010"/> --><l>Or some about him near have, out of malice</l>
-                            <!-- <lb type="tln" n="1011"/> --><l>To the good queen, possessed him with a scruple</l>
+                            <!-- <lb type="tln" n="1011"/> --><l>To the good <roleName key="Catherine of Aragon">queen</roleName>, possessed him with a scruple</l>
                             <!-- <lb type="tln" n="1012"/> --><l>That will undo her. To confirm this, too,</l>
-                            <!-- <lb type="tln" n="1013"/> --><l>Cardinal Campeius is arrived and lately,</l>
+                            <!-- <lb type="tln" n="1013"/> --><l><persName key="Lorenzo Campeggio" ref="http://www.wikidata.org/entity/Q222941" cert="medium" type="real">Cardinal Campeius</persName> is arrived and lately,</l>
                             <!-- <lb type="tln" n="1014"/> --><l>As all think for this business.</l></sp>
                     
                     <!-- <lb type="tln" n="1015"/> --><sp who="#emdH8_M_gentleman1"><speaker>1 Gentleman</speaker>
