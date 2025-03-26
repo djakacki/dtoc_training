@@ -7019,9 +7019,7 @@
                     
                     <!-- <lb type="tln" n="1161"/> --><sp who="#emdH8_M_henry"><speaker>King Henry</speaker>
                         <p><l>Aye, and the best she shall have; and my favor</l> 
-                            <!-- <lb type="tln" n="1162"/> --><l>To him that does best, God forbid else.</l> Cardinal, 
-                            <!-- <lb type="tln" n="1163"/> -->Prithee call Gardiner to me, my new secretary. 
-                            <!-- <lb type="tln" n="1164"/> -->I find him a fit fellow.</p></sp>
+                            <!-- <lb type="tln" n="1162"/> --><l>To him that does best, God forbid else.</l> <l>Cardinal, <!-- <lb type="tln" n="1163"></lb> -->Prithee call Gardiner to me, my new secretary. <!-- <lb type="tln" n="1164"></lb> -->I find him a fit fellow.</l></p></sp>
                     
                     <!-- <lb type="tln" n="1165"/> --> <stage type="entrance">Enter Gardiner.</stage>
                     
