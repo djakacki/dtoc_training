@@ -5270,7 +5270,7 @@
                     <!-- have used <name type> for stage properties ... is that acceptable or should it be <objectType>? -->                    
                     <!-- <lb type="tln" n="889"/> --><stage type="entrance">Enter <persName key="Edward Stafford, 3rd Duke of Buckingham" ref="http://www.wikidata.org/entity/Q726243" cert="high" type="real">Buckingham</persName> from his arraignment, t<name type="property">ipstaffs</name> before 
                         <!-- <lb type="tln" n="890"/> -->him, the a<name type="property">xe</name> with the edge towards him, h<name type="property">alberds</name> on each 
-                        <!-- <lb type="tln" n="891"/> -->side, accompanied with Sir Thomas Lovell, Sir Nicholas 
+                        <!-- <lb type="tln" n="891"/> -->side, accompanied with <persName>Sir Thomas Lovell</persName>, Sir Nicholas 
                         <!-- <lb type="tln" n="892"/> -->Vaux, Sir Walter Sandys, and common people, &amp;c.</stage>
                     
                     <!-- <lb type="tln" n="893"/> --><sp who="#emdH8_M_gentleman1"><speaker>1 Gentleman</speaker>
