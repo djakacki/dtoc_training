@@ -1651,10 +1651,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?person_annotation_20250323100157456",
+	"id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?person_annotation_20250326184255592",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-03-23T14:01:57.456Z",
-	"dcterms:modified": "2025-03-26T22:42:55.592Z",
+	"dcterms:created": "2025-03-26T22:42:55.592Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1665,7 +1664,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?person_annotation_20250323100157456#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?person_annotation_20250326184255592#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml",
@@ -1679,7 +1678,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?person_annotation_20250323100157456#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?person_annotation_20250326184255592#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/div[2]/stage[2]/persName[3]"
 		}
@@ -6443,7 +6442,7 @@
                         <p>What’s the cause?</p></sp>
                     
                     <!-- <lb type="tln" n="1046"/> --><sp who="#emdH8_M_chamberlain"><speaker>Chamberlain</speaker>
-                        <p><l>It seems the marriage with his brother’s wife</l> <l>Has crept too near his conscience.</l></p></sp>
+                        <l>It seems the marriage with his brother’s wife</l> <l>Has crept too near his conscience.</l></sp>
                     
                     <!-- <lb type="tln" n="1048"/> --><sp who="#emdH8_M_suffolk"><speaker>Suffolk</speaker>
                         <l>No, his Conscience</l> 
