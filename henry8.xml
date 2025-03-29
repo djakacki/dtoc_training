@@ -7099,12 +7099,12 @@
                     
                     <!-- <lb type="tln" n="1161"/> --><sp who="#emdH8_M_henry"><speaker>King Henry</speaker>
                         <p><l>Aye, and the best she shall have; and my favor</l> 
-                            <!-- <lb type="tln" n="1162"/> --><l>To him that does best, God forbid else.</l> <l>Cardinal, prithee call Gardiner to me, my new secretary. <!-- <lb type="tln" n="1164"></lb> -->I find him a fit fellow.</l></p></sp>
+                            <!-- <lb type="tln" n="1162"/> --><l>To him that does best, God forbid else.</l> <l>Cardinal, prithee call Gardiner to me, my new secretary. </l><l><!-- <lb type="tln" n="1164"></lb> -->I find him a fit fellow.</l></p></sp>
                     
                     <!-- <lb type="tln" n="1165"/> --> <stage type="entrance">Enter <persName key="Stephen Gardiner" ref="http://www.wikidata.org/entity/Q719423" type="real">Gardiner</persName>.</stage>
                     
                     <!-- <lb type="tln" n="1166"/> --><sp who="#emdH8_M_wolsey"><speaker>Wolsey</speaker>
-                        <l>Give me your hand. Much joy and favor to you; </l>
+                        <l>Give me your hand. Much joy and favor to you:</l>
                             <!-- <lb type="tln" n="1167"/> --><l>You are the king’s now.</l></sp>
                     
                     <!-- <lb type="tln" n="1168"/> --><sp who="#emdH8_M_gardiner"><speaker>Gardiner</speaker>
