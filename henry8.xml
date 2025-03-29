@@ -6917,7 +6917,7 @@
                     <!-- <lb type="tln" n="1099"/> --><sp who="#emdH8_M_norfolk"><speaker>Norfolk</speaker>
                         <l>Thanks, my good lord chamberlain.</l></sp>
                     
-                    <!-- <lb type="tln" n="1100"/> --><stage type="other">Exit Lord Chamberlain. <persName key="Henry VIII of England" ref="http://www.wikidata.org/entity/Q38370" cert="high" type="real">The King</persName> draws the c<name type="property">urtain</name> 
+                    <!-- <lb type="tln" n="1100"/> --><stage type="mixed">Exit Lord Chamberlain. <persName key="Henry VIII of England" ref="http://www.wikidata.org/entity/Q38370" cert="high" type="real">The King</persName> draws the c<name type="property">urtain</name> 
                         <!-- <lb type="tln" n="1101"/> -->and sits <name type="property" n="book">reading</name> pensively.</stage>
                     
                     <!-- <lb type="tln" n="1102"/> --><sp who="#emdH8_M_suffolk"><speaker>Suffolk</speaker>
