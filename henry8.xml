@@ -7416,12 +7416,12 @@
                     
                     <!-- <lb type="tln" n="1255"/> --><sp who="#emdH8_M_anne"><speaker>Anne</speaker>
                         <l>How you do talk.</l> 
-                            <!-- <lb type="tln" n="1256"/> --><l>I swear again I would not be a queen </l>
+                            <!-- <lb type="tln" n="1256"/> --><l>I swear again I would not be a <roleName key="abstract">queen</roleName> </l>
                             <!-- <lb type="tln" n="1257"/> --><l>For all the world!</l></sp>
                     
                     <!-- <lb type="tln" n="1258"/> --><sp who="#emdH8_M_oldlady"><speaker>Old Lady</speaker>
                         <l>In faith, for little England </l>
-                            <!-- <lb type="tln" n="1259"/> --><l>You’d venture an emballing: I, myself, </l>
+                            <!-- <lb type="tln" n="1259"/> --><l>You’d venture an emballing. I, myself, </l>
                             <!-- <lb type="tln" n="1260"/> --><l>Would for Caernarfonshire, although there longed </l>
                             <!-- <lb type="tln" n="1261"/> --><l>No more to th’ crown but that. Lo, who comes here?</l></sp>
                     
