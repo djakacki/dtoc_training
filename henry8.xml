@@ -6960,10 +6960,10 @@
                             <!-- <lb type="tln" n="1124"/> --><l>Of private conference.</l></sp>
                     
                     <!-- <lb type="tln" n="1125"/> --><sp who="#emdH8_M_henry"><speaker>King Henry</speaker>
-                        <l><stage toWhom="Norfolk and Suffolk" type="delivery"/>We are busy. Go.</l></sp>
+                        <l><stage toWhom="Norfolk and Suffolk" type="delivery">[to Norfolk and Suffolk]</stage>We are busy. Go.</l></sp>
                     
-                    <!-- <lb type="tln" n="1126"/> --><stage type="delivery"><supplied>To Suffolk</supplied></stage><sp who="#emdH8_M_norfolk"><speaker>Norfolk</speaker>
-                        <l>This priest has no pride in him.</l></sp>
+                    <!-- <lb type="tln" n="1126"/> --><sp who="#emdH8_M_norfolk"><speaker>Norfolk</speaker>
+                        <l><stage type="delivery">[to Suffolk]</stage>This priest has no pride in him.</l></sp>
                     
                     <!-- <lb type="tln" n="1127"/> --><stage type="delivery"><supplied>To Norfolk</supplied></stage><sp who="#emdH8_M_suffolk"><speaker>Suffolk</speaker>
                         <l>Not to speak of.</l> 
