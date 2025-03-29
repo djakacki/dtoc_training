@@ -7331,7 +7331,7 @@
                 <div type="scene" n="3" xml:id="emdH8_M_a2_s3">
                     <!-- <lb type="tln" n="1200"/> --><head>Act 2, Scene 3</head>
                     
-                    <!-- <lb type="tln" n="1201"/> --><stage type="entrance">Enter <persName key="Anne Boleyn" ref="http://www.wikidata.org/entity/Q80823" cert="high">Anne Bullen</persName>, and an old Lady.</stage>
+                    <!-- <lb type="tln" n="1201"/> --><stage type="entrance">Enter <persName key="Anne Boleyn" ref="http://www.wikidata.org/entity/Q80823" cert="high">Anne Bullen</persName>, and an <persName type="fictional">old Lady</persName>.</stage>
                     
                     <!-- <lb type="tln" n="1202"/> --><sp who="#emdH8_M_anne"><speaker>Anne</speaker>
                         <l>Not for that, neither; here’s the pang that pinches:</l>
