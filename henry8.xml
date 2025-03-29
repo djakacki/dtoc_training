@@ -5343,7 +5343,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?person_annotation_20250329180237111#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[3]/div[4]/stage/persName[7]"
+			"rdf:value": "TEI/text/body/div[3]/div[4]/stage/roleName/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -7784,7 +7784,7 @@
                         <!-- <lb type="tln" n="1342"/> --><name type="property">Silver Pillers</name>: After them, side by side, the two Cardinals, 
                         <!-- <lb type="tln" n="1343"/> -->two Noblemen, with the <name type="property">Sword</name> and <name type="property">Mace</name>. The <persName key="Henry VIII of England" ref="http://www.wikidata.org/entity/Q38370">King</persName> takes 
                         <!-- <lb type="tln" n="1344"/> -->place under the <name type="property">Cloth of State</name>. The two Cardinals sit 
-                        <!-- <lb type="tln" n="1345"/> -->under him as judges. The <persName key="Catherine of Aragon" ref="http://www.wikidata.org/entity/Q162819" type="real">Queen</persName> takes place some 
+                        <!-- <lb type="tln" n="1345"/> -->under him as judges. The <roleName key="Catherine of Aragon"><persName key="Catherine of Aragon" ref="http://www.wikidata.org/entity/Q162819" type="real">Queen</persName></roleName> takes place some 
                         <!-- <lb type="tln" n="1346"/> -->distance from the King. The Bishops place themselves on 
                         <!-- <lb type="tln" n="1347"/> -->each side the Court in manner of a consistory. Below them, 
                         <!-- <lb type="tln" n="1348"/> -->the Scribes. The Lords sit next the Bishops. The rest of the 
