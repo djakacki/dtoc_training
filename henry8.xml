@@ -7393,7 +7393,7 @@
                         <l>Nay, good troth.</l></sp>
                     
                     <!-- <lb type="tln" n="1243"/> --><sp who="#emdH8_M_oldlady"><speaker>Old Lady</speaker>
-                        <l>Yes, troth and troth. You would not be a queen?</l></sp>
+                        <l>Yes, troth and troth. You would not be a <roleName key="abstract">queen</roleName>?</l></sp>
                     
                     <!-- <lb type="tln" n="1244"/> --><sp who="#emdH8_M_anne"><speaker>Anne</speaker>
                         <l>No, not for all the riches under heaven.</l></sp>
