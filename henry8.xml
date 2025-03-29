@@ -7823,7 +7823,7 @@
                     <!-- <lb type="tln" n="1362"/> --><sp who="#emdH8_M_crier"><speaker>Crier</speaker>
                         <p>Katherine Queen of England, come into the court.</p></sp>
                     
-                    <!-- <lb type="tln" n="1363"/> --><stage type="business">The Queen makes no answer, rises out of her chair, 
+                    <!-- <lb type="tln" n="1363"/> --><stage type="business">The <roleName key="Catherine of Aragon">Queen</roleName> makes no answer, rises out of her chair, 
                         <!-- <lb type="tln" n="1364"/> -->goes about the court, comes to the King, and kneels at 
                         <!-- <lb type="tln" n="1365"/> -->his feet. Then speaks.</stage>
                     
