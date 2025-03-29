@@ -6965,9 +6965,10 @@
                     <!-- <lb type="tln" n="1126"/> --><sp who="#emdH8_M_norfolk"><speaker>Norfolk</speaker>
                         <l><stage type="delivery">[to Suffolk]</stage>This priest has no pride in him.</l></sp>
                     
-                    <!-- <lb type="tln" n="1127"/> --><stage type="delivery"><supplied>To Norfolk</supplied></stage><sp who="#emdH8_M_suffolk"><speaker>Suffolk</speaker>
-                        <l>Not to speak of.</l> 
-                            <!-- <lb type="tln" n="1128"/> --><l><stage type="delivery">[to Norfolk]</stage>I would not be so sick, though, for his place.</l> 
+                    <!-- <lb type="tln" n="1127"/> --><sp who="#emdH8_M_suffolk"><speaker>Suffolk</speaker>
+                        <stage type="delivery">[to Norfolk]</stage>
+						<l>Not to speak of.</l> 
+                            <!-- <lb type="tln" n="1128"/> --><l>I would not be so sick, though, for his place.</l> 
                             <!-- <lb type="tln" n="1129"/> --><l>But this cannot continue.</l></sp>
                     
                     <!-- <lb type="tln" n="1130"/> --><stage type="delivery"><supplied>To Suffolk</supplied></stage><sp who="#emdH8_M_norfolk"><speaker>Norfolk</speaker>
