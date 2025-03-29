@@ -1,18 +1,17 @@
 {
-    "editionTitle": "Henry the Eighth or All Is True",
-    "editionSubtitle": "",
-    "ignoreNamespace": true,
+    "inputs": [
+        "https://raw.githubusercontent.com/LEAF-VRE/dtoc_training/refs/heads/main/henry8.xml"
+    ],
     "documents": "//div[@type='act']",
-    "documentContent": "",
+    "ignoreNamespace": true,
     "documentTitle": "head",
     "documentAuthor": "",
-    "indexDocument": "",
     "documentImages": "",
     "documentNotes": "",
     "documentLinks": "",
-    "inputs": [
-        "https://raw.githubusercontent.com/djakacki/dtoc_training/refs/heads/main/henry8.xml"
-    ],
+    "indexDocument": "",
+    "editionTitle": "Henry the Eighth or All Is True",
+    "editionSubtitle": "",
     "curation": {
         "markup": [
             {
@@ -176,18 +175,6 @@
                 "label": "Two Secretaries"
             },
             {
-                "xpath": "//eventName",
-                "label": "events"
-            },
-            {
-                "xpath": "//persName",
-                "label": "person"
-            },
-            {
-                "xpath": "//placeName",
-                "label": "place"
-            },
-            {
                 "xpath": "//speaker",
                 "label": "speaker"
             },
@@ -197,7 +184,7 @@
             }
         ],
         "toc": [
-            "b30263f710f48c142184e6057280f0dfcebc744b32e1a48a90cdabfa52ed3638",
+            "60e8b73cbfd7a486fe6a12a7efb697b6cd42a58c6d176df472013c85e49a74fa",
             "87b955203e79e34596acab2679da83d3acce4672f310d972da1d621555cd64c8",
             "a57140d302391b7dbde85eafaed6a53726d27d7a83f02cda5ab213903481e271",
             "d15642364331a31f10c62c094dd5eb748373fa7a68e4a5b3f63759368fc410b6",
