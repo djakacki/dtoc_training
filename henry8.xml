@@ -11485,7 +11485,7 @@
                             <!-- <lb type="tln" n="2505"/> --><l>Cast her fair eyes to heaven and prayed devoutly.</l>
                             <!-- <lb type="tln" n="2506"/> --><l>Then rose again and bowed her to the people.</l>
                             <!-- <lb type="tln" n="2507"/> --><l>When, by the <persName key="Thomas Cranmer" ref="http://www.wikidata.org/entity/Q199894">Archbishop of Canterbury</persName>,</l>
-                            <!-- <lb type="tln" n="2508"/> --><l>She had all the royal makings of a queen:</l>
+                            <!-- <lb type="tln" n="2508"/> --><l>She had all the royal makings of a <roleName key="abstract">queen</roleName>:</l>
                             <!-- <lb type="tln" n="2509"/> --><l>As holy oil, Edward Confessor’s crown,</l>
                             <!-- <lb type="tln" n="2510"/> --><l>The rod, and bird of peace, and all such emblems</l>
                             <!-- <lb type="tln" n="2511"/> --><l>Laid nobly on her; which performed, the choir</l>
@@ -11497,7 +11497,7 @@
                     <!-- <lb type="tln" n="2516"/> --><sp who="#emdH8_M_gentleman1"><speaker>1 Gentleman</speaker>
                         <l>Sir,</l>
                             <!-- <lb type="tln" n="2517"/> --><l>You must no more call it York Place. That’s past.</l>
-                            <!-- <lb type="tln" n="2518"/> --><l>For since the cardinal fell, that title’s lost.</l>
+                            <!-- <lb type="tln" n="2518"/> --><l>For since the Cardinal fell, that title’s lost.</l>
                             <!-- <lb type="tln" n="2519"/> --><l>’Tis now the king’s, and called <placeName key="Palace of Whitehall" ref="http://www.wikidata.org/entity/Q391620">Whitehall</placeName>.</l></sp>
                     
                     <!-- <lb type="tln" n="2520"/> --><sp who="#emdH8_M_gentleman3"><speaker>3 Gentleman</speaker>
