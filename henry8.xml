@@ -7493,6 +7493,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?person_annotation_20250402183705931",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-04-02T22:37:05.931Z",
+	"dcterms:modified": "2025-04-02T22:37:05.931Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/djakacki",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?person_annotation_20250402183705931#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?person_annotation_20250402183705931#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[6]/div/stage[3]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q38370",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><profileDesc>
             <particDesc>
                 <listPerson>                    
@@ -12054,7 +12133,7 @@
                     <!-- <lb type="tln" n="2835"/> --><sp who="#emdH8_M_lovell"><speaker>Lovell</speaker>
                         <l>Many good nights, my lord, I rest your servant.</l></sp>
                     
-                    <!-- <lb type="tln" n="2836"/> --><stage type="entrance">Enter King and Suffolk.</stage>
+                    <!-- <lb type="tln" n="2836"/> --><stage type="entrance">Enter <persName key="Henry VIII of England" ref="http://www.wikidata.org/entity/Q38370">King</persName> and Suffolk.</stage>
                     
                     <!-- <lb type="tln" n="2837"/> --><sp who="#emdH8_M_henry"><speaker>King Henry</speaker>
                         <l>Charles, I will play no more tonight.</l>
@@ -12066,7 +12145,7 @@
                     <!-- <lb type="tln" n="2840"/> --><sp who="#emdH8_M_henry"><speaker>King Henry</speaker>
                         <l>But little, Charles,</l>
                             <!-- <lb type="tln" n="2841"/> --><l>Nor shall not when my fancy’s on my play.</l>
-                            <!-- <lb type="tln" n="2842"/> --><l>Now Lovell, from the queen what is the news.</l></sp>
+                            <!-- <lb type="tln" n="2842"/> --><l>Now Lovell, from the <roleName key="Anne">queen</roleName> what is the news.</l></sp>
                     
                     <!-- <lb type="tln" n="2843"/> --><sp who="#emdH8_M_lovell"><speaker>Lovell</speaker>
                         <l>I could not personally deliver to her</l>
