@@ -12591,7 +12591,7 @@
                         <l>Aye, aye my liege,</l>
                             <!-- <lb type="tln" n="2971"/> --><l>And of a lovely boy. The god of heaven</l>
                             <!-- <lb type="tln" n="2972"/> --><l>Both now and ever bless her. ’Tis a girl</l>
-                            <!-- <lb type="tln" n="2973"/> --><l>Promises boys heereafter. Sir, your queen</l>
+                            <!-- <lb type="tln" n="2973"/> --><l>Promises boys heereafter. Sir, your <roleName key="Anne">queen</roleName></l>
                             <!-- <lb type="tln" n="2974"/> --><l>Desires your visitation and to be</l>
                             <!-- <lb type="tln" n="2975"/> --><l>Acquainted with this stranger. ’Tis as like you</l>
                             <!-- <lb type="tln" n="2976"/> --><l>As cherry is to cherry.</l></sp>
@@ -12604,7 +12604,7 @@
                     
                     <!-- <lb type="tln" n="2979"/> --><sp who="#emdH8_M_henry"><speaker>King Henry</speaker>
                         <l>Give her an hundred marks.</l>
-                            <l>I’ll to the queen.</l></sp>  
+                            <l>I’ll to the <roleName key="Anne">queen</roleName>.</l></sp>  
                     
                     <stage type="exit">Exit King.</stage>
                     
