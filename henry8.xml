@@ -10542,7 +10542,7 @@
                     <!-- <lb type="tln" n="1950"/> --><sp who="#emdH8_M_wolsey"><speaker>Wolsey</speaker>
                         <l>The late <roleName key="Katharine">queen’s</roleName> gentlewoman?</l>
                             <!-- <lb type="tln" n="1951"/> --><l>A knight’s daughter</l>
-                            <!-- <lb type="tln" n="1952"/> --><l>To be her mistress’s mistress? The queen’s queen?</l>
+                            <!-- <lb type="tln" n="1952"/> --><l>To be her mistress’s mistress? The <roleName key="Katharine">queen</roleName>’s <roleName key="Anne">queen</roleName>?</l>
                             <!-- <lb type="tln" n="1953"/> --><l>This candle burns not clear; ’tis I must snuff it</l>
                             <!-- <lb type="tln" n="1954"/> --><l>Then out it goes. What, though I know her virtuous</l>
                             <!-- <lb type="tln" n="1955"/> --><l>And well deserving, yet I know her for</l>
