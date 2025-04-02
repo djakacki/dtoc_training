@@ -10540,7 +10540,7 @@
                             <!-- <lb type="tln" n="1949"/> --><l>Lord, for thy justice.</l></sp>
                     
                     <!-- <lb type="tln" n="1950"/> --><sp who="#emdH8_M_wolsey"><speaker>Wolsey</speaker>
-                        <l>The late queen’s gentlewoman?</l>
+                        <l>The late <roleName key="Katharine">queen’s</roleName> gentlewoman?</l>
                             <!-- <lb type="tln" n="1951"/> --><l>A knight’s daughter</l>
                             <!-- <lb type="tln" n="1952"/> --><l>To be her mistress’s mistress? The queen’s queen?</l>
                             <!-- <lb type="tln" n="1953"/> --><l>This candle burns not clear; ’tis I must snuff it</l>
