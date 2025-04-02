@@ -12173,7 +12173,7 @@
                     <!-- <lb type="tln" n="2856"/> --><sp who="#emdH8_M_henry"><speaker>King Henry</speaker>
                         <l>’Tis midnight, Charles.</l>
                             <!-- <lb type="tln" n="2857"/> --><l>Prithee to bed, and in thy prayers remember</l>
-                            <!-- <lb type="tln" n="2858"/> --><l>Th’estate of my poor queen. Leave me alone,</l>
+                            <!-- <lb type="tln" n="2858"/> --><l>Th’estate of my poor <roleName key="Anne">queen</roleName>. Leave me alone,</l>
                             <!-- <lb type="tln" n="2859"/> --><l>For I must think of that which company</l>
                             <!-- <lb type="tln" n="2860"/> --><l>Would not be friendly to.</l></sp>
                     
