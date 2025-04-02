@@ -12564,7 +12564,7 @@
                             <!-- <lb type="tln" n="2955"/> --><l>There make before them. <stage type="delivery" n="aside"><supplied>Aside</supplied></stage> Look, the good man weeps.</l>
                             <!-- <lb type="tln" n="2956"/> --><l>He’s honest, on mine honor. Gods blessed mother,</l>
                             <!-- <lb type="tln" n="2957"/> --><l>I swear he is true-hearted, and a soul</l>
-                            <!-- <lb type="tln" n="2958"/> --><l>None better in my kingdom. <stage type="delivery"><supplied>To Cranmer</supplied></stage>Get you gone,</l>
+                            <!-- <lb type="tln" n="2958"/> --><l>None better in my kingdom. </l><l><stage type="delivery"><supplied>To Cranmer</supplied></stage></l><l>Get you gone,</l>
                             <!-- <lb type="tln" n="2959"/> --><l>And do as I have bid you.</l>
                             
                             <stage type="exit">Exit Cranmer.</stage>
@@ -12584,7 +12584,7 @@
                     
                     <!-- <lb type="tln" n="2967"/> --><sp who="#emdH8_M_henry"><speaker>King Henry</speaker>
                         <l>Now, by thy looks</l>
-                            <!-- <lb type="tln" n="2968"/> --><l>I guess thy message. Is the queen delivered?</l>
+                            <!-- <lb type="tln" n="2968"/> --><l>I guess thy message. Is the <roleName key="Anne">queen</roleName> delivered?</l>
                             <!-- <lb type="tln" n="2969"/> --><l>Say aye, and of a boy.</l></sp>
                     
                     <!-- <lb type="tln" n="2970"/> --><sp who="#emdH8_M_oldlady"><speaker>Old Lady</speaker>
