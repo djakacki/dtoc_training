@@ -7809,6 +7809,164 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?place_annotation_20250402184801139",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-04-02T22:48:01.139Z",
+	"dcterms:modified": "2025-04-02T22:48:01.139Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/djakacki",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?place_annotation_20250402184801139#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?place_annotation_20250402184801139#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[6]/div[4]/stage/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q1424839",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?person_annotation_20250402184830157",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-04-02T22:48:30.157Z",
+	"dcterms:modified": "2025-04-02T22:48:30.157Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/djakacki",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?person_annotation_20250402184830157#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?person_annotation_20250402184830157#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[6]/div[4]/stage/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q7207",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><profileDesc>
             <particDesc>
                 <listPerson>                    
@@ -13184,12 +13342,12 @@
                 <div type="scene" n="4" xml:id="emdH8_M_a5_s4">
                     <!-- <lb type="tln" n="3353"/> --><head>Act 5, Scene 4</head>
                     
-                    <!-- <lb type="tln" n="3354"/> --><stage type="business">Enter trumpets sounding: Then two aldermen, Lord Mayor, 
+                    <!-- <lb type="tln" n="3354"/> --><stage type="business"><placeName key="Palace of Placentia" ref="http://www.wikidata.org/entity/Q1424839">Enter</placeName> trumpets sounding: Then two aldermen, Lord Mayor, 
                         <!-- <lb type="tln" n="3355"/> -->Garter, Cranmer, Duke of Norfolk with his <!-- <objectType n="property"> -->marshal’s 
                             <!-- <lb type="tln" n="3356"/> -->staff<!-- </objectType> -->, Duke of Suffolk, two noblemen, bearing great 
                         <!-- <lb type="tln" n="3357"/> --><!-- <objectType n="property"> -->standing bowls<!-- </objectType> --> for the christening gifts. Then four 
                         <!-- <lb type="tln" n="3358"/> -->noblemen bearing a <!-- <objectType n="property"> -->canopy<!-- </objectType> -->, under which the Duchess of 
-                        <!-- <lb type="tln" n="3359"/> -->Norfolk, godmother, bearing the <!-- <objectType n="property"> -->child<!-- </objectType> --> richly habited in 
+                        <!-- <lb type="tln" n="3359"/> -->Norfolk, godmother, bearing <persName key="Elizabeth I of England" ref="http://www.wikidata.org/entity/Q7207">the <!-- <objectType n="property"> -->child</persName><!-- </objectType> --> richly habited in 
                         <!-- <lb type="tln" n="3360"/> -->a <!-- <objectType n="property"> -->mantle, &amp; traine<!-- </objectType> --> borne by a lady. Then follows 
                         <!-- <lb type="tln" n="3361"/> -->the Marchioness Dorset, the other godmother, and 
                         <!-- <lb type="tln" n="3362"/> -->ladies. The Troop pass once about the stage, and 
