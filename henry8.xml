@@ -11507,7 +11507,7 @@
                     
                     <!-- <lb type="tln" n="2523"/> --><sp who="#emdH8_M_gentleman2"><speaker>2 Gentleman</speaker>
                         <l>What two reverend bishops</l>
-                            <!-- <lb type="tln" n="2524"/> --><l>Were those that went on each side of the queen?</l></sp>
+                            <!-- <lb type="tln" n="2524"/> --><l>Were those that went on each side of the <roleName key="Anne">queen</roleName>?</l></sp>
                     
                     <!-- <lb type="tln" n="2525"/> --><sp who="#emdH8_M_gentleman3"><speaker>3 Gentleman</speaker>
                         <l><persName key="John Stokesley" ref="http://www.wikidata.org/entity/Q6259279">Stokeley</persName> and <persName key="Stephen Gardiner" ref="http://www.wikidata.org/entity/Q719423">Gardiner</persName>, the one of Winchester,</l>
