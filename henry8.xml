@@ -7335,6 +7335,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?place_annotation_20250402181847816",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-04-02T22:18:47.816Z",
+	"dcterms:modified": "2025-04-02T22:18:47.816Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/djakacki",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?place_annotation_20250402181847816#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?place_annotation_20250402181847816#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[5]/div/sp[11]/l[11]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q522398",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><profileDesc>
             <particDesc>
                 <listPerson>                    
@@ -11260,13 +11339,13 @@
                             <!-- <lb type="tln" n="2412"/> --><l>The king’s late scruple, by the main assent</l>
                             <!-- <lb type="tln" n="2413"/> --><l>Of all these learned men she was divorced,</l>
                             <!-- <lb type="tln" n="2414"/> --><l>And the late marriage made of none effect;</l>
-                            <!-- <lb type="tln" n="2415"/> --><l>Since which, she was removed to Kimbolton,</l>
+                            <!-- <lb type="tln" n="2415"/> --><l>Since which, she was removed to <placeName key="Kimbolton" ref="http://www.wikidata.org/entity/Q522398">Kimbolton</placeName>,</l>
                             <!-- <lb type="tln" n="2416"/> --><l>Where she remains now sick.</l></sp>
                     
                     <!-- <lb type="tln" n="2417"/> --><sp who="#emdH8_M_gentleman2"><speaker>2 Gentleman</speaker>
                         <l>Alas, good lady.</l>
                             <!-- <lb type="tln" n="2418"/> --><l>The trumpets sound; stand close,</l>
-                            <!-- <lb type="tln" n="2419"/> --><l>The queen is coming.</l></sp>
+                            <!-- <lb type="tln" n="2419"/> --><l>The <roleName key="Anne">queen</roleName> is coming.</l></sp>
                     
                     <stage type="sound"><name type="property">Hautboys.</name></stage>
                     
