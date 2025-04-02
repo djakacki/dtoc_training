@@ -13362,7 +13362,7 @@
                     <!-- <lb type="tln" n="3368"/> --><stage type="entrance">Flourish. Enter King and guard.</stage>
                     
                     <!-- <lb type="tln" n="3369"/> --><sp who="#emdH8_M_cranmer"><speaker>Cranmer</speaker>
-                        <l>And to your royal grace and the good queen, </l>
+                        <l>And to your royal grace and the good <roleName key="Anne">queen</roleName>, </l>
                             <!-- <lb type="tln" n="3370"/> --><l>My noble partners and myself thus pray </l>
                             <!-- <lb type="tln" n="3371"/> --><l>All comfort, joy in this most gracious lady, </l>
                             <!-- <lb type="tln" n="3372"/> --><l>Heaven ever laid up to make parents happy,</l>
