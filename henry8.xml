@@ -11456,7 +11456,7 @@
                     
                     <!-- <lb type="tln" n="2482"/> --><sp who="#emdH8_M_gentleman3"><speaker>3 Gentleman</speaker>
                         <l>As well as I am able. The rich stream</l>
-                            <!-- <lb type="tln" n="2483"/> --><l>Of lords and ladies, having brought the queen</l>
+                            <!-- <lb type="tln" n="2483"/> --><l>Of lords and ladies, having brought the <roleName key="Anne">queen</roleName></l>
                             <!-- <lb type="tln" n="2484"/> --><l>To a prepared place in the choir, fell off</l>
                             <!-- <lb type="tln" n="2485"/> --><l>A distance from her, while her grace sat down</l>
                             <!-- <lb type="tln" n="2486"/> --><l>To rest a while, some half an hour or so,</l>
