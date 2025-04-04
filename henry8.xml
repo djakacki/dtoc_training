@@ -7766,7 +7766,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?place_annotation_20250402184005790",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-02T22:40:05.790Z",
-	"dcterms:modified": "2025-04-02T22:40:05.790Z",
+	"dcterms:modified": "2025-04-04T01:32:08.754Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -7798,7 +7798,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:RealPlace",
-		"@id": "http://www.wikidata.org/entity/Q62378",
+		"@id": "https://mapoflondon.uvic.ca/TOWE5.htm",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -12655,7 +12655,7 @@
                             <!-- <lb type="tln" n="2900"/> --><l>But that till further trial, in those charges</l>
                             <!-- <lb type="tln" n="2901"/> --><l>Which will require your answer, you must take</l>
                             <!-- <lb type="tln" n="2902"/> --><l>Your patience to you and be well contented</l>
-                            <!-- <lb type="tln" n="2903"/> --><l>To make your house our <placeName key="Tower of London" ref="http://www.wikidata.org/entity/Q62378">Tower</placeName>. You, a brother of us,</l>
+                            <!-- <lb type="tln" n="2903"/> --><l>To make your house our <placeName key="Tower of London" ref="https://mapoflondon.uvic.ca/TOWE5.htm" xml:id="tow002">Tower</placeName>. You, a brother of us,</l>
                             <!-- <lb type="tln" n="2904"/> --><l>It fits we thus proceed, or else no witness</l>
                             <!-- <lb type="tln" n="2905"/> --><l>Would come against you.</l></sp>
                     
