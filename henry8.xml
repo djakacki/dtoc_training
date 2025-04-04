@@ -380,7 +380,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?place_annotation_20250323092308796",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-23T13:23:08.796Z",
-	"dcterms:modified": "2025-03-23T13:23:08.796Z",
+	"dcterms:modified": "2025-04-04T01:07:51.982Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -459,7 +459,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?place_annotation_20250323092318943",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-23T13:23:18.943Z",
-	"dcterms:modified": "2025-03-23T13:23:18.943Z",
+	"dcterms:modified": "2025-04-04T01:08:04.437Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -8413,7 +8413,7 @@
                             <!-- <lb type="tln" n="47"/> --><l>Met in the vale of <placeName key="Andres" ref="http://www.wikidata.org/entity/Q999942" cert="medium" xml:id="and001">Andres<precision match="@ref" precision="medium"/></placeName></l></sp>
                     
                     <!-- <lb type="tln" n="48"/> --><sp who="#emdH8_M_norfolk" xml:id="emdH8_M_a1_s1_sp4"><speaker>Norfolk</speaker>
-                        <l>’Twixt <placeName key="Guînes" ref="http://www.wikidata.org/entity/Q325999">Guînes</placeName> and <placeName key="Ardes" ref="http://www.wikidata.org/entity/Q872053">Ardes</placeName></l>
+                        <l>’Twixt <placeName key="Guînes" ref="http://www.wikidata.org/entity/Q325999" xml:id="gui001">Guînes</placeName> and <placeName key="Ardes" ref="http://www.wikidata.org/entity/Q872053" xml:id="ard0001">Ardes</placeName></l>
                             <!-- <lb type="tln" n="49"/> --><l>I was then present, saw them salute on horseback,</l>
                             <!-- <lb type="tln" n="50"/> --><l>Beheld them when they lighted, how they clung</l>
                             <!-- <lb type="tln" n="51"/> --><l>In their embracement, as they grew together,</l>
