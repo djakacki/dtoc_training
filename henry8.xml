@@ -5554,7 +5554,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?place_annotation_20250331192832347",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-31T23:28:32.347Z",
-	"dcterms:modified": "2025-03-31T23:28:32.347Z",
+	"dcterms:modified": "2025-04-04T01:29:29.309Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -5586,7 +5586,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:RealPlace",
-		"@id": "http://www.wikidata.org/entity/Q5933",
+		"@id": "https://mapoflondon.uvic.ca/WEST1.htm",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -11989,7 +11989,7 @@
                         <l>God save you, sir. Where have you been broiling?</l></sp>
                     
                     <!-- <lb type="tln" n="2474"/> --><sp who="#emdH8_M_gentleman3"><speaker>3 Gentleman</speaker>
-                        <l>Among the crowd i<placeName key="Westminster Abbey" ref="http://www.wikidata.org/entity/Q5933">’th’Abbey</placeName>, where a finger</l>
+                        <l>Among the crowd i<placeName key="Westminster Abbey" ref="https://mapoflondon.uvic.ca/WEST1.htm" xml:id="wes001">’th’Abbey</placeName>, where a finger</l>
                             <!-- <lb type="tln" n="2475"/> --><l>Could not be wedged in more. I am stifled</l>
                             <!-- <lb type="tln" n="2476"/> --><l>With the mere rankness of their joy.</l></sp>
                     
