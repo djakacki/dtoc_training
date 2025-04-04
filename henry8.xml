@@ -5712,7 +5712,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?place_annotation_20250331193047063",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-31T23:30:47.063Z",
-	"dcterms:modified": "2025-03-31T23:30:47.063Z",
+	"dcterms:modified": "2025-04-04T01:30:48.294Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -5744,7 +5744,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:RealPlace",
-		"@id": "http://www.wikidata.org/entity/Q391620",
+		"@id": "https://mapoflondon.uvic.ca/WHIT5.htm",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -5791,7 +5791,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?place_annotation_20250331193109215",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-31T23:31:09.215Z",
-	"dcterms:modified": "2025-03-31T23:31:09.215Z",
+	"dcterms:modified": "2025-04-04T01:30:34.760Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -5823,7 +5823,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:RealPlace",
-		"@id": "http://www.wikidata.org/entity/Q391620",
+		"@id": "https://mapoflondon.uvic.ca/WHIT5.htm",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -12046,13 +12046,13 @@
                             <!-- <lb type="tln" n="2512"/> --><l>With all the choicest music of the kingdom</l>
                             <!-- <lb type="tln" n="2513"/> --><l>Together sung <foreign xml:lang="la">Te Deum</foreign>. So she parted,</l>
                             <!-- <lb type="tln" n="2514"/> --><l>And with the same full state paced back again</l>
-                            <!-- <lb type="tln" n="2515"/> --><l>To <placeName key="Palace of Whitehall" ref="http://www.wikidata.org/entity/Q391620">York Place</placeName>, where the feast is held.</l></sp>
+                            <!-- <lb type="tln" n="2515"/> --><l>To <placeName key="Palace of Whitehall" ref="https://mapoflondon.uvic.ca/WHIT5.htm" xml:id="yor002">York Place</placeName>, where the feast is held.</l></sp>
                     
                     <!-- <lb type="tln" n="2516"/> --><sp who="#emdH8_M_gentleman1"><speaker>1 Gentleman</speaker>
                         <l>Sir,</l>
                             <!-- <lb type="tln" n="2517"/> --><l>You must no more call it York Place. That’s past.</l>
                             <!-- <lb type="tln" n="2518"/> --><l>For since the Cardinal fell, that title’s lost.</l>
-                            <!-- <lb type="tln" n="2519"/> --><l>’Tis now the king’s, and called <placeName key="Palace of Whitehall" ref="http://www.wikidata.org/entity/Q391620">Whitehall</placeName>.</l></sp>
+                            <!-- <lb type="tln" n="2519"/> --><l>’Tis now the king’s, and called <placeName key="Palace of Whitehall" ref="https://mapoflondon.uvic.ca/WHIT5.htm">Whitehall</placeName>.</l></sp>
                     
                     <!-- <lb type="tln" n="2520"/> --><sp who="#emdH8_M_gentleman3"><speaker>3 Gentleman</speaker>
                         <l>I know it,</l>
