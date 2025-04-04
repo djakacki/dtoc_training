@@ -2691,7 +2691,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?place_annotation_20250323105806123",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-23T14:58:06.123Z",
-	"dcterms:modified": "2025-03-23T14:58:06.123Z",
+	"dcterms:modified": "2025-04-04T01:24:50.568Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2723,7 +2723,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:RealPlace",
-		"@id": "http://www.wikidata.org/entity/Q391620",
+		"@id": "https://mapoflondon.uvic.ca/WHIT5.htm",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -9307,7 +9307,7 @@
                     
                     <!-- <lb type="tln" n="660"/> --><head>Act 1, Scene 4</head>
                     
-                    <!-- <lb type="tln" n="661"/> --><stage type="entrance business sound"><placeName n="mol:WHIT5"><supplied><placeName key="Palace of Whitehall" ref="http://www.wikidata.org/entity/Q391620">York Place</placeName></supplied></placeName> Hautboys. A small table under a state for the cardinal, a 
+                    <!-- <lb type="tln" n="661"/> --><stage type="entrance business sound"><placeName n="mol:WHIT5"><supplied><placeName key="Palace of Whitehall" ref="https://mapoflondon.uvic.ca/WHIT5.htm" xml:id="yor001">York Place</placeName></supplied></placeName> Hautboys. A small table under a state for the cardinal, a 
                         <!-- <lb type="tln" n="662"/> -->longer table for the guests. Then enter <persName key="Anne Boleyn" ref="http://www.wikidata.org/entity/Q80823" cert="high" type="real">Anne Bullen</persName> 
                         <!-- <lb type="tln" n="663"/> -->and divers other Ladies, and Gentlemen as guests 
                         <!-- <lb type="tln" n="664"/> -->at one door; at an other door enter 
