@@ -1733,7 +1733,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?place_annotation_20250323102904934",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-23T14:29:04.934Z",
-	"dcterms:modified": "2025-03-23T14:29:04.934Z",
+	"dcterms:modified": "2025-04-04T01:20:15.150Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1814,7 +1814,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?place_annotation_20250323103423579",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-23T14:34:23.579Z",
-	"dcterms:modified": "2025-03-23T14:34:23.579Z",
+	"dcterms:modified": "2025-04-04T01:21:47.735Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1846,7 +1846,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:RealPlace",
-		"@id": "http://www.wikidata.org/entity/Q693450",
+		"@id": "https://mapoflondon.uvic.ca/GREE6.htm",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -9050,7 +9050,7 @@
                     <!-- <lb type="tln" n="497"/> --><sp who="#emdH8_M_surveyor"><speaker>Surveyor</speaker>
                         <l>Not long before your highness sped to France,</l>
                             <!-- <lb type="tln" n="498"/> --><l>The duke being at <placeName>the Rose</placeName>, within the parish</l>
-                            <!-- <lb type="tln" n="499"/> --><l><placeName key="Saint Lawrence Poultney" ref="https://mapoflondon.uvic.ca/STLA6.htm" cert="medium">Saint Lawrence Poultney<precision match="@ref" precision="medium"/></placeName>, did of me demand</l>
+                            <!-- <lb type="tln" n="499"/> --><l><placeName key="Saint Lawrence Poultney" ref="https://mapoflondon.uvic.ca/STLA6.htm" cert="medium" xml:id="stlp001">Saint Lawrence Poultney<precision match="@ref" precision="medium"/></placeName>, did of me demand</l>
                             <!-- <lb type="tln" n="500"/> --><l>What was the speech among the Londoners</l>
                             <!-- <lb type="tln" n="501"/> --><l>Concerning the French journey. I replied</l>
                             <!-- <lb type="tln" n="502"/> --><l>Men fear the French would prove perfidious</l>
@@ -9104,7 +9104,7 @@
                         <l>Proceed.</l></sp>
                     
                     <!-- <lb type="tln" n="539"/> --><sp who="#emdH8_M_surveyor"><speaker>Surveyor</speaker>
-                        <l>Being at <placeName key="Royal Borough of Greenwich" ref="http://www.wikidata.org/entity/Q693450">Greenwich</placeName>,</l>
+                        <l>Being at <placeName key="Royal Borough of Greenwich" ref="https://mapoflondon.uvic.ca/GREE6.htm" xml:id="gre001">Greenwich</placeName>,</l>
                             <!-- <lb type="tln" n="540"/> --><l>After your highness had reproved the duke</l>
                             <!-- <lb type="tln" n="541"/> --><l>About <persName key="William Bulmer" ref="http://www.wikidata.org/entity/Q53230599" cert="medium" type="real">Sir William Bulmer</persName>—</l></sp>
                     
