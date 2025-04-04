@@ -1096,7 +1096,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?place_annotation_20250323094259126",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-23T13:42:59.126Z",
-	"dcterms:modified": "2025-03-23T13:42:59.126Z",
+	"dcterms:modified": "2025-04-04T01:17:03.157Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -8751,7 +8751,7 @@
                         <l>I am sorry</l>
                             <!-- <lb type="tln" n="288"/> --><l>To see you ta’en from liberty to look on</l>
                             <!-- <lb type="tln" n="289"/> --><l>The busines present. ’Tis his highness’ pleasure</l>
-                            <!-- <lb type="tln" n="290"/> --><l>You shall to <placeName key="Tower of London" ref="http://www.wikidata.org/entity/Q62378" cert="high">th’Tower<precision match="@ref" precision="high"/></placeName>.</l></sp>
+                            <!-- <lb type="tln" n="290"/> --><l>You shall to <placeName key="Tower of London" ref="http://www.wikidata.org/entity/Q62378" cert="high" xml:id="tow001">th’Tower<precision match="@ref" precision="high"/></placeName>.</l></sp>
                     
                     <!-- <lb type="tln" n="291"/> --><sp who="#emdH8_M_buckingham"><speaker>Buckingham</speaker>
                         <l>It will help me nothing</l>
