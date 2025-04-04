@@ -65,6 +65,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?place_annotation_20241028153304972",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-10-28T19:33:04.972Z",
+	"dcterms:modified": "2025-04-04T01:07:14.399Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -537,7 +538,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/dtoc_training/main/henry8.xml?place_annotation_20250323092739212",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-23T13:27:39.212Z",
-	"dcterms:modified": "2025-03-23T13:27:39.212Z",
+	"dcterms:modified": "2025-04-04T01:07:36.803Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -8398,7 +8399,7 @@
                     
                     <!-- <lb type="tln" n="38"/> --><sp who="#emdH8_M_buckingham" xml:id="emdH8_M_a1_s1_sp1"><speaker>Buckingham</speaker>
                         <!-- <lb type="tln" n="39"/> --><l>Good morrow, and well met. How have ye done</l>
-                            <!-- <lb type="tln" n="40"/> --><l>Since last we saw in <placeName key="France" ref="http://www.wikidata.org/entity/Q142">France</placeName>?</l></sp>
+                            <!-- <lb type="tln" n="40"/> --><l>Since last we saw in <placeName key="France" ref="http://www.wikidata.org/entity/Q142" xml:id="fra001">France</placeName>?</l></sp>
                     
                     <!-- <lb type="tln" n="41"/> --><sp who="#emdH8_M_norfolk" xml:id="emdH8_M_a1_s1_sp2"><speaker>Norfolk</speaker>
                         <l>I thank your grace,</l>
@@ -8409,7 +8410,7 @@
                         <l>An untimely ague</l>
                             <!-- <lb type="tln" n="45"/> --><l>Stayed me a prisoner in my chamber when</l>
                             <!-- <lb type="tln" n="46"/> --><l>Those sons of glory, those two lights of men,</l>
-                            <!-- <lb type="tln" n="47"/> --><l>Met in the vale of <placeName key="Andres" ref="http://www.wikidata.org/entity/Q999942" cert="medium">Andres<precision match="@ref" precision="medium"/></placeName></l></sp>
+                            <!-- <lb type="tln" n="47"/> --><l>Met in the vale of <placeName key="Andres" ref="http://www.wikidata.org/entity/Q999942" cert="medium" xml:id="and001">Andres<precision match="@ref" precision="medium"/></placeName></l></sp>
                     
                     <!-- <lb type="tln" n="48"/> --><sp who="#emdH8_M_norfolk" xml:id="emdH8_M_a1_s1_sp4"><speaker>Norfolk</speaker>
                         <l>’Twixt <placeName key="Guînes" ref="http://www.wikidata.org/entity/Q325999">Guînes</placeName> and <placeName key="Ardes" ref="http://www.wikidata.org/entity/Q872053">Ardes</placeName></l>
