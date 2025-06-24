@@ -1,0 +1,31 @@
+{
+    "editionTitle": "Inferno: Canto IV",
+    "editionSubtitle": "",
+    "ignoreNamespace": true,
+    "documents": "//div",
+    "documentContent": "",
+    "documentTitle": "head",
+    "documentAuthor": "",
+    "indexDocument": "",
+    "documentImages": "",
+    "documentNotes": "",
+    "documentLinks": "",
+    "inputs": [
+        "https://raw.githubusercontent.com/djakacki/DH2025_LWC-DToC/main/Inferno_english_2.xml"
+    ],
+    "curation": {
+        "markup": [
+            {
+                "xpath": "//div",
+                "label": "div"
+            },
+            {
+                "xpath": "//persName",
+                "label": "person"
+            }
+        ],
+        "toc": [
+            "f329f4c4d5d519dd7c131117aec5b5d7c3472edb026fdb5e95778102db1d90d7"
+        ]
+    }
+}
